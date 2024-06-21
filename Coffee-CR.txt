@@ -1,0 +1,5 @@
+Types	Number
+Fission	2
+Fusion	5
+Insertion	2
+Translocation	3
