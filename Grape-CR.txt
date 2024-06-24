@@ -1,2 +1,3 @@
 Types	Number
-End-to-end translocation	3
+End-to-end translocation	2
+Reciprocal translocation	1
