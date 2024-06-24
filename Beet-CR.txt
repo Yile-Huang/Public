@@ -1,5 +1,5 @@
 Types	Number
 End-to-end translocation	10
 Reciprocal translocation	5
-Insertion	2
-Inversion	3
+Nested chromosome insertion	2
+Para/peri-centric inversion	3
