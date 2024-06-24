@@ -1,5 +1,5 @@
 Types	Number
-Fission	2
-Fusion	5
-Insertion	2
-Translocation	3
+End-to-end translocation	7
+Reciprocal translocation	2
+Robertsonian translocation	1
+Insertion	3
