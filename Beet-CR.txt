@@ -1,0 +1,5 @@
+Types	Number
+End-to-end translocation	10
+Reciprocal translocation	5
+Insertion	2
+Inversion	3

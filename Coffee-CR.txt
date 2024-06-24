@@ -1,5 +1,5 @@
 Types	Number
-End-to-end translocation	7
-Reciprocal translocation	2
-Robertsonian translocation	1
+End-to-end translocation	9
+Reciprocal translocation	4
 Insertion	3
+Inversion	1
