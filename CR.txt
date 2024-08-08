@@ -1,5 +1,4 @@
-Types	Number
-End-to-end translocation	10
-Reciprocal translocation	5
-Nested chromosome insertion	2
-Para/peri-centric inversion	3
+Query genome	Query genome chr	Reference	Reference genome chr	End-to-end translocation	Reciprocal translocation	Nested chromosome insertion	Para/peri-centric inversion	Total CR
+Vitis vinifera	19	AEK-post	21	2	1	0	0	3
+Coffea canephora	11	AEK-post	21	8	3	5	5	21
+Beta vulgaris	9	AEK-post	21	11	4	5	11	31
