@@ -1,1 +1,1 @@
-Capsella_rubella (Ancestral_Crucifer_Karyotype)  Arabidopsis_thaliana
+Capsella_rubella (Ancestral_Crucifer_Karyotype)	Arabidopsis_thaliana
