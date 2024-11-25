@@ -1,0 +1,22 @@
+Ref_chr	Start	End	Length	Query_chr_assocations	CR types
+Chr1	20293354	20303199	9845	scaffold_1+scaffold_2	end-to-end joining / short-range translocation
+Chr1	20537235	20549068	11833	scaffold_2+scaffold_1	short-range translocation
+Chr1	21012698	21037207	24509	scaffold_1+scaffold_2	end-to-end joining / short-range translocation
+Chr2	1332422	1333380	958	scaffold_5+scaffold_3	reciprocal translocation
+Chr2	2930500	3135155	204655	scaffold_3+scaffold_6	short-range translocation
+Chr2	3508892	3577318	68426	scaffold_6+scaffold_2	short-range translocation
+Chr2	3926448	4342033	415585	scaffold_2+scaffold_3	short-range translocation
+Chr2	8992799	8998458	5659	scaffold_3+scaffold_4	end-to-end joining
+Chr3	9273528	9275065	1537	scaffold_3+scaffold_5	reciprocal translocation
+Chr3	12650264	12858234	207970	scaffold_5+scaffold_3	short-range translocation
+Chr3	13131457	13289186	157729	scaffold_3+scaffold_4	short-range translocation
+Chr3	13324642	13434013	109371	scaffold_4+scaffold_3	short-range translocation
+Chr3	13490258	13539593	49335	scaffold_3+scaffold_8	short-range translocation
+Chr4	7461903	7467628	5725	scaffold_6+scaffold_7	reciprocal translocation
+Chr4	14563703	14567008	3305	scaffold_7+scaffold_4	short-range translocation
+Chr4	14606925	14610702	3777	scaffold_4+scaffold_7	short-range translocation
+Chr5	10864030	10877350	13320	scaffold_6+scaffold_7	reciprocal translocation
+Chr5	10930542	10992932	62390	scaffold_7+scaffold_6	short-range translocation
+Chr5	15070280	15184929	114649	scaffold_7+scaffold_5	short-range translocation
+Chr5	15306840	15311247	4407	scaffold_5+scaffold_7	short-range translocation
+Chr5	16831723	16833043	1320	scaffold_7+scaffold_8	end-to-end joining
