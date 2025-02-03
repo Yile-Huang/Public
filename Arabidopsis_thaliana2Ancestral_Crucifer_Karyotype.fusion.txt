@@ -1,0 +1,8 @@
+Rejoined_genes	Rejoined_position	Strand	CR_type
+AT1G56190.1.Araport11.447-AT1G56210.1.Araport11.447	Chr1:21030684-21035590	+/+	Inter-chr fusion
+AT2G05160.1.Araport11.447-AT2G05170.1.Araport11.447	Chr2:1862064-1869853	+/+	Inter-chr fusion
+AT2G20900.1.Araport11.447-AT2G20920.1.Araport11.447	Chr2:8993275-8998450	+/+	Inter-chr fusion
+AT3G25520.3.Araport11.447-AT3G25540.1.Araport11.447	Chr3:9271432-9274431	+/+	Inter-chr fusion
+AT4G12620.1.Araport11.447-AT4G12700.1.Araport11.447	Chr4:7462447-7482361	+/+	Inter-chr fusion
+AT5G30510.1.Araport11.447-AT5G32470.1.Araport11.447	Chr5:11621298-12084897	+/+	Inter-chr fusion
+AT5G42110.1.Araport11.447-AT5G42130.1.Araport11.447	Chr5:16832357-16835233	+/+	Inter-chr fusion

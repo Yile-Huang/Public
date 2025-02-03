@@ -1,0 +1,5 @@
+Ancestral_genes	Ancestral_position	CR_type
+AT3G25520.3.Araport11.447-r-AT2G05170.1.Araport11.447-r	AK3:6439536-6439537	AK-chr fission
+AT2G05160.1.Araport11.447-r-AT3G25540.1.Araport11.447-r	AK5:818305-818306	AK-chr fission
+AT4G12620.1.Araport11.447-r-AT5G23010.2.Araport11.447-r	AK6:2401179-2401180	AK-chr fission
+AT5G42110.1.Araport11.447-r-AT4G12700.1.Araport11.447-r	AK7:1568035-1568036	AK-chr fission
