@@ -1,0 +1,24 @@
+Rejoined_genes	Rejoined_position	Strand	CR_type
+Thecc1EG001295t1.CGDv1.1-Thecc1EG001872t1.CGDv1.1	scaffold_1:6344173-9946890	+/-	Inter-chr fusion
+Thecc1EG002479t1.CGDv1.1-Thecc1EG002919t1.CGDv1.1	scaffold_1:14182831-17422268	+/-	Inter-chr fusion
+Thecc1EG004828t1.CGDv1.1-Thecc1EG004994t1.CGDv1.1	scaffold_1:33661292-34522376	+/+	Inter-chr fusion
+Thecc1EG005800t1.CGDv1.1-Thecc1EG005821t1.CGDv1.1	scaffold_1:38292272-38371910	-/+	Inter-chr fusion
+Thecc1EG006054t1.CGDv1.1-Thecc1EG006060t1.CGDv1.1	scaffold_2:517032-544681	+/+	Inter-chr fusion
+Thecc1EG006095t1.CGDv1.1-Thecc1EG006285t1.CGDv1.1	scaffold_2:774162-1560350	+/+	Inter-chr fusion
+Thecc1EG006319t2.CGDv1.1-Thecc1EG006385t1.CGDv1.1	scaffold_2:1688602-1979914	+/-	Inter-chr fusion
+Thecc1EG006426t1.CGDv1.1-Thecc1EG006452t1.CGDv1.1	scaffold_2:2175028-2292672	-/-	Inter-chr fusion
+Thecc1EG007624t1.CGDv1.1-Thecc1EG007644t3.CGDv1.1	scaffold_2:7964991-8064432	+/-	Inter-chr fusion
+Thecc1EG007681t1.CGDv1.1-Thecc1EG007735t1.CGDv1.1	scaffold_2:8314931-8601151	-/+	Inter-chr fusion
+Thecc1EG014781t1.CGDv1.1-Thecc1EG014809t1.CGDv1.1	scaffold_3:24444847-24579486	-/+	Inter-chr fusion
+Thecc1EG015554t2.CGDv1.1-Thecc1EG015561t1.CGDv1.1	scaffold_3:28485829-28519802	-/-	Inter-chr fusion
+Thecc1EG019636t1.CGDv1.1-Thecc1EG019676t1.CGDv1.1	scaffold_4:24057811-24264200	+/-	Inter-chr fusion
+Thecc1EG019769t1.CGDv1.1-Thecc1EG019848t1.CGDv1.1	scaffold_4:24906702-25335985	-/-	Inter-chr fusion
+Thecc1EG025868t1.CGDv1.1-Thecc1EG026412t1.CGDv1.1	scaffold_5:35225136-38154709	-/-	Inter-chr fusion
+Thecc1EG026443t1.CGDv1.1-Thecc1EG026448t1.CGDv1.1	scaffold_5:38279386-38311313	-/-	Inter-chr fusion
+Thecc1EG026470t1.CGDv1.1-Thecc1EG026622t1.CGDv1.1	scaffold_5:38409749-39310914	-/-	Inter-chr fusion
+Thecc1EG026947t1.CGDv1.1-Thecc1EG027159t1.CGDv1.1	scaffold_6:452751-1956727	+/+	Inter-chr fusion
+Thecc1EG029267t1.CGDv1.1-Thecc1EG029402t1.CGDv1.1	scaffold_6:21632838-22433347	-/-	Inter-chr fusion
+Thecc1EG037022t1.CGDv1.1-Thecc1EG037034t1.CGDv1.1	scaffold_9:1403652-1458365	-/-	Inter-chr fusion
+Thecc1EG037121t1.CGDv1.1-Thecc1EG037137t1.CGDv1.1	scaffold_9:1831910-1966826	-/-	Inter-chr fusion
+Thecc1EG037426t1.CGDv1.1-Thecc1EG037433t1.CGDv1.1	scaffold_9:3388291-3415467	+/+	Inter-chr fusion
+Thecc1EG039269t1.CGDv1.1-Thecc1EG039990t1.CGDv1.1	scaffold_9:17654012-25809662	-/+	Inter-chr fusion
