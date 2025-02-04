@@ -2,17 +2,17 @@ Order	Family	Species	Median	Genome Size (Mb)	Assembly Level	Repeats	Gene Number	
 Acorales	Acoraceae	Acorus calamus	22	700.94	chromosome	44.70%	46065	Epsilon+WGD+WGD	Ma et al., 2023	https://doi.org/10.1038/s41467-023-38829-3	3
 Acorales	Acoraceae	Acorus gramineus	12	391.63	chromosome	47.13%	25090	Epsilon+WGD	Ma et al., 2023	https://doi.org/10.1038/s41467-023-38829-3	2
 Acorales	Acoraceae	Acorus tatarinowii Schott	12	415.18	chromosome	42.12%	28241	Epsilon+WGD	Shi et al., 2022	https://doi.org/10.1038/s41477-022-01187-x	2
-Alismatales	Araceae	Amorphophallus konjac	13	5600	chromosome	80.60%	44333	Epsilon+WGD+WGD	Gao et al., 2022	https://doi.org/10.1016/j.csbj.2022.02.009	2
-Alismatales	Araceae	Colocasia esculenta (L.) Schott	14	2390	chromosome	88.43%	28695	Epsilon+WGD+WGD	Yin et al., 2020	https://doi.org/10.1111/1755-0998.13239	
-Alismatales	Araceae	Cryptocoryne crispatula	16	802	chromosome	68.43%	30010	Epsilon+WGD+WGD	Qian et al.,2024	https://doi.org/10.1093/dnares/dsae003	
+Alismatales	Araceae	Amorphophallus konjac	13	5600	chromosome	80.60%	44333	Epsilon+WGD+WGD	Gao et al., 2022	https://doi.org/10.1016/j.csbj.2022.02.009	3
+Alismatales	Araceae	Colocasia esculenta (L.) Schott	14	2390	chromosome	88.43%	28695	Epsilon+WGD+WGD	Yin et al., 2020	https://doi.org/10.1111/1755-0998.13239	3
+Alismatales	Araceae	Cryptocoryne crispatula	16	802	chromosome	68.43%	30010	Epsilon+WGD+WGD	Qian et al.,2024	https://doi.org/10.1093/dnares/dsae003	3
 Alismatales	Araceae	Lemna minuta	21	310	chromosome	57.00%	22873	Epsilon+WGD	Abramson et al., 2021	https://doi.org/10.1093/plphys/kiab564	2
 Alismatales	Araceae	Spirodela intermedia	18	160	chromosome	20.00%	22245	Epsilon+WGD+WGD	Hoang et al., 2020	https://doi.org/10.1038/s41598-020-75728-9	3
 Alismatales	Araceae	Spirodela polyrhiza	20	158	chromosome	15.73%	19623	Epsilon+WGD+WGD	Wang et al., 2014	https://doi.org/10.1038/ncomms4311	3
-Alismatales	Araceae	Wolffia australiana	20	432	scaffold	38.95%	22293	Epsilon+WGD+WGD	Park et al., 2021	https://doi.org/10.1038/s42003-021-02422-5	
-Alismatales	Cymodoceaceae	Amphibolis antarctica		233	scaffold	47.00%	16176	Epsilon+WGT+WGD	Bayer et al., 2022	https://doi.org/10.1101/2022.11.22.517588	
+Alismatales	Araceae	Wolffia australiana	20	432	scaffold	38.95%	22293	Epsilon+WGD+WGD	Park et al., 2021	https://doi.org/10.1038/s42003-021-02422-5	3
+Alismatales	Cymodoceaceae	Amphibolis antarctica	7	233	scaffold	47.00%	16176	Epsilon+WGT+WGD	Bayer et al., 2022	https://doi.org/10.1101/2022.11.22.517588	3
 Alismatales	Cymodoceaceae	Cymodocea nodosa	18	379	scaffold	64.65%	20563	Epsilon+WGT+WGD	Ma et al., 2024	https://doi.org/10.1038/s41477-023-01608-5	3
 Alismatales	Hydrocharitaceae	Thalassia testudinum	9	4262	scaffold	87.36%	25665	Epsilon+WGT	Ma et al., 2024	https://doi.org/10.1038/s41477-023-01608-5	2
-Alismatales	Posidoniaceae	Posidonia australis		1400	scaffold		21126	Epsilon+WGT	Bayer et al., 2022	https://doi.org/10.1101/2022.11.22.517588	2
+Alismatales	Posidoniaceae	Posidonia australis	10	1400	scaffold	NA	21126	Epsilon+WGT	Bayer et al., 2022	https://doi.org/10.1101/2022.11.22.517588	2
 Alismatales	Posidoniaceae	Posidonia oceanica	10	2963	scaffold	85.18%	23306	Epsilon+WGT	Ma et al., 2024	https://doi.org/10.1038/s41477-023-01608-5	2
 Alismatales	Potamogetonaceae	Potamogeton acutifolius	13	612	scaffold	40.00%	21277	Epsilon+WGT+WGD	Ma et al., 2024	https://doi.org/10.1038/s41477-023-01608-5	3
 Alismatales	Zosteraceae	Zostera marina	6	260	scaffold	40.76%	22256	Epsilon+WGT+WGD	Ma et al., 2024	https://doi.org/10.1038/s41477-023-01608-5	3
@@ -26,36 +26,36 @@ Apiales	Apiaceae	Daucus carota subsp. carota L.	9	473	chromosome	46.00%	32113	Ep
 Apiales	Apiaceae	Oenanthe sinensis Dunn	21	886.77	chromosome	62.02%	54711	Epsilon+Gamma+WGD+WGD+WGD	Liu et al., 2023	https://doi.org/10.1016/j.indcrop.2022.116203	5
 Apiales	Apiaceae	Peucedanum praeruptorum	11	1830	chromosome	78.64%	44525	Epsilon+Gamma+WGD+WGD	Song et al., 2024	https://doi.org/10.1016/j.ijbiomac.2023.128218	4
 Apiales	Araliaceae	Panax ginseng C. A. Meyer	24	3300	chromosome	79.52%	59352	Epsilon+Gamma+WGD	Kim et al., 2018	https://doi.org/10.1111/pbi.12926	3
-Apiales	Araliaceae	Panax japonicus	24	2020	chromosome		74,307	Epsilon+Gamma+WGD+WGD	Wang et al., 2022	https://doi.org/10.1038/s41467-022-29561-5	4
+Apiales	Araliaceae	Panax japonicus	24	2020	chromosome	NA	74,307	Epsilon+Gamma+WGD+WGD	Wang et al., 2022	https://doi.org/10.1038/s41467-022-29561-5	4
 Apiales	Araliaceae	Panax notoginseng	12	2310	chromosome	88.20%	47870	Epsilon+Gamma+WGD	Yang et al., 2021	https://doi.org/10.1111/pbi.13558	3
-Apiales	Araliaceae	Panax stipuleanatus 	12	1960	chromosome		41,224	Epsilon+Gamma+WGD	Wang et al., 2022	https://doi.org/10.1038/s41467-022-29561-5	3
+Apiales	Araliaceae	Panax stipuleanatus 	12	1960	chromosome	NA	41,224	Epsilon+Gamma+WGD	Wang et al., 2022	https://doi.org/10.1038/s41467-022-29561-5	3
 Aquifoliales	Aquifoliaceae	Ilex latifolia	20	765.94	chromosome	53.00%	35218	Epsilon+Gamma+WGT	Xu et al., 2022	https://doi.org/10.3389/fpls.2022.982323	3
 Aquifoliales	Aquifoliaceae	Ilex polyneura	20	729.31	chromosome	57.62%	32838	Epsilon+Gamma+WGT	Yao et al., 2022	https://doi.org/10.1093/hr/uhab049	3
 Arecales	Arecaceae	Areca catechu	16	2700	chromosome	69.19%	31406	Epsilon+Tau+WGD	Zhou et al., 2022	https://doi.org/10.1111/nph.18471	3
 Arecales	Arecaceae	Areca catechu-Reyan#1	16	2510	chromosome	82.20%	31571	Epsilon+Tau+WGD	Yang et al., 2021	https://doi.org/10.1111/1755-0998.13446	3
-Arecales	Arecaceae	Calamus simplicifolius	12	1980	chromosome	54.15%	51235		Zhao et al., 2018	https://doi.org/10.1093/gigascience/giy097	
+Arecales	Arecaceae	Calamus simplicifolius	12	1980	chromosome	54.15%	51235	Epsilon+Tau+WGD	Zhao et al., 2018	https://doi.org/10.1093/gigascience/giy097	3
 Arecales	Arecaceae	Cocos nucifera	16	2420	chromosome	72.75%	28039	Epsilon+Tau+WGD	Yang et al., 2021	https://doi.org/10.1038/s42003-020-01593-x	3
-Arecales	Arecaceae	Daemonorops jenkinsiana	13	1610	chromosome	70.00%	53342		Zhao et al., 2018	https://doi.org/10.1093/gigascience/giy097	
+Arecales	Arecaceae	Daemonorops jenkinsiana	13	1610	chromosome	70.00%	53342	Epsilon+Tau+WGD	Zhao et al., 2018	https://doi.org/10.1093/gigascience/giy097	3
 Arecales	Arecaceae	Elaeis guineensis	16	1700	chromosome	73.70%	33447	Epsilon+Tau+WGD	Wang et al., 2023	https://doi.org/10.1016/j.gpb.2022.11.002	3
 Arecales	Arecaceae	Elaeis guineensis	16	1535	chromosome	47%	34802	Epsilon+Tau+WGD	Singh et al., 2013	https://doi.org/10.1038/nature12309	3
-Arecales	Arecaceae	Elaeis guineensis Jacq.	16	1800	chromosome		26059	Epsilon+Tau+WGD	Sanusi et al., 2023	https://doi.org/10.1016/j.compbiolchem.2022.107801	3
-Arecales	Arecaceae	Metroxylon sagu Rottboll	16	510	scaffold		33242		KitLim et al., 2022	https://doi.org/10.1016/j.dib.2022.107800	2
+Arecales	Arecaceae	Elaeis guineensis Jacq.	16	1800	chromosome	NA	26059	Epsilon+Tau+WGD	Sanusi et al., 2023	https://doi.org/10.1016/j.compbiolchem.2022.107801	3
+Arecales	Arecaceae	Metroxylon sagu Rottboll	16	510	scaffold	NA	33242	Epsilon+Tau+WGD	KitLim et al., 2022	https://doi.org/10.1016/j.dib.2022.107800	3
 Arecales	Arecaceae	Phoenix dactylifera L.	18	671	chromosome	38.41%	41660	Epsilon+Tau+WGD	Al-Mssallem et al., 2013	https://doi.org/10.1038/ncomms3274	3
 Asparagales	Amaryllidaceae	Agapanthus africanus	15	20167	chromosome	94.36%	87418	Epsilon+Tau+WGD+WGD	Hao et al., 2023	https://doi.org/10.1038/s41588-023-01546-0	4
-Asparagales	Amaryllidaceae	Allium cepa	8	13600	chromosome	72.40%	47066	Epsilon+Tau+WGD+WGD+WGD	Finkers et al., 2021	https://doi.org/10.1093/g3journal/jkab243	
+Asparagales	Amaryllidaceae	Allium cepa	8	13600	chromosome	72.40%	47066	Epsilon+Tau+WGD+WGD+WGD	Finkers et al., 2021	https://doi.org/10.1093/g3journal/jkab243	5
 Asparagales	Amaryllidaceae	Allium cepa L.	8	15941	chromosome	93.79%	61619	Epsilon+Tau+WGD+WGD+WGD	Hao et al., 2023	https://doi.org/10.1038/s41588-023-01546-0	5
-Asparagales	Amaryllidaceae	Allium fistulosum	8	11970	chromosome	69.81%	62255	Epsilon+Tau+WGD+WGD+WGD	Liao et al., 2022	https://doi.org/10.1038/s41467-022-34491-3	4
+Asparagales	Amaryllidaceae	Allium fistulosum	8	11970	chromosome	69.81%	62255	Epsilon+Tau+WGD+WGD+WGD	Liao et al., 2022	https://doi.org/10.1038/s41467-022-34491-3	5
 Asparagales	Amaryllidaceae	Allium fistulosum L.	8	11674	chromosome	92.10%	50234	Epsilon+Tau+WGD+WGD+WGD	Hao et al., 2023	https://doi.org/10.1038/s41588-023-01546-0	5
-Asparagales	Amaryllidaceae	Allium sativum	8	16900	chromosome	91.30%	57561	Epsilon+Tau+WGD+WGD+WGD	Sun et al., 2020	https://doi.org/10.1016/j.molp.2020.07.019	4
+Asparagales	Amaryllidaceae	Allium sativum	8	16900	chromosome	91.30%	57561	Epsilon+Tau+WGD+WGD+WGD	Sun et al., 2020	https://doi.org/10.1016/j.molp.2020.07.019	5
 Asparagales	Amaryllidaceae	Allium sativum L.	8	16462	chromosome	92.75%	57183	Epsilon+Tau+WGD+WGD+WGD	Hao et al., 2023	https://doi.org/10.1038/s41588-023-01546-0	5
 Asparagales	Asparagaceae	Asparagus kiusianus	10	1618.9	chromosome	68.10%	57523	Epsilon+Tau+WGD	Shirasawa et al., 2022	https://doi.org/10.1093/dnares/dsac002	3
 Asparagales	Asparagaceae	Asparagus setaceus	10	720	chromosome	64.43%	28410	Epsilon+Tau+WGD	Li et al., 2020	https://doi.org/10.1038/s41438-020-0271-y	3
-Asparagales	Asphodelaceae	Aloe vera	7	12930	scaffold	82.66%	86177		Jaiswal et al., 2021	"https://doi.org/10.1016/j.isci.
-2021.102079"	
+Asparagales	Asphodelaceae	Aloe vera	7	12930	scaffold	82.66%	86177	Epsilon+Tau+WGD	Jaiswal et al., 2021	"https://doi.org/10.1016/j.isci.
+2021.102079"	3
 Asparagales	Asphodelaceae	Hemerocallis citrina	11	3800	chromosome	86.20%	54295	Epsilon+Tau+WGD	Qing et al., 2021	https://doi.org/10.1038/s41438-021-00539-6	3
-Asparagales	Orchidaceae	Apostasia ramifera		332.24	scaffold	44.99%	22841		Zhang et al., 2021	https://doi.org/10.1186/s12864-021-07852-3	
+Asparagales	Orchidaceae	Apostasia ramifera	NA	332.24	scaffold	44.99%	22841	Epsilon+Tau+WGD	Zhang et al., 2021	https://doi.org/10.1186/s12864-021-07852-3	3
 Asparagales	Orchidaceae	Apostasia shenzhenica	34	471	scaffold	42.05%	21841	Epsilon+Tau+WGD	Zhang et al., 2017	https://doi.org/10.1038/nature23897	3
-Asparagales	Orchidaceae	Bletilla striata (Thunb.)	16	5060	chromosome		53564	Epsilon+Tau+WGD	Jiang et al., 2022	https://doi.org/10.1111/tpj.15892	3
+Asparagales	Orchidaceae	Bletilla striata (Thunb.)	16	5060	chromosome	NA	53564	Epsilon+Tau+WGD	Jiang et al., 2022	https://doi.org/10.1111/tpj.15892	3
 Asparagales	Orchidaceae	Cymbidium ensifolium	20	3620	chromosome	80.58%	29073	Epsilon+Tau+WGD	Ai et al., 2021	https://doi.org/10.1038/s41438-021-00683-z	3
 Asparagales	Orchidaceae	Cymbidium goeringii	20	3800	chromosome	88.87%	29556	Epsilon+Tau+WGD	Chung et al., 2021	https://doi.org/10.1111/1755-0998.13537	3
 Asparagales	Orchidaceae	Cymbidium sinense	20	3520	chromosome	77.78%	29638	Epsilon+Tau+WGD	Yang et al., 2021	https://doi.org/10.1111/pbi.13676	3
@@ -67,11 +67,11 @@ Asparagales	Orchidaceae	Gastrodia elata	18	1180	scaffold	66.18%	18969	Epsilon+Ta
 Asparagales	Orchidaceae	Gastrodia menghaiensis	18	987	chromosome	62.57%	17948	Epsilon+Tau+WGD	Jiang et al., 2022	https://doi.org/10.1186/s12870-022-03573-1	3
 Asparagales	Orchidaceae	Phalaenopsis aphrodite	19	1200	chromosome	60.30%	28902	Epsilon+Tau+WGD	Chao et al., 2018	https://doi.org/10.1111/pbi.12936	3
 Asparagales	Orchidaceae	Phalaenopsis equestris	19	1160	scaffold	62.00%	29431	Epsilon+Tau+WGD	Cai et al., 2015	https://doi.org/10.1038/ng.3149	3
-Asparagales	Orchidaceae	Vanilla planifolia	16	4090	chromosome	72.00%	59128		Piet et al., 2022	https://doi.org/10.1016/j.xplc.2022.100330	
+Asparagales	Orchidaceae	Vanilla planifolia	16	4090	chromosome	72.00%	59128	Epsilon+Tau+WGD	Piet et al., 2022	https://doi.org/10.1016/j.xplc.2022.100330	3
 Asterales	Asteraceae	Arctium lappa	18	1821.08	chromosome	68.46%	32771	Epsilon+Gamma+WGT	Yang et al., 2021	https://doi.org/10.1111/1755-0998.13547	3
 Asterales	Asteraceae	Artemisia annua	9	1740	scaffold	61.57%	63230	Epsilon+Gamma+WGT	Shen et al., 2018	https://doi.org/10.1016/j.molp.2018.03.015	3
 Asterales	Asteraceae	Artemisia tridentata (2× tridentata)	9	4190	chromosome	77.99%	43377	Epsilon+Gamma+WGT	Melton et al., 2022	https://doi.org/10.1093/g3journal/jkac122	3
-Asterales	Asteraceae	Carthamus tinctorius	12	1170	chromosome	60.13%	33343	Epsilon+Gamma+WGT	Wu et al., 2021	https://doi.org/10.1111/pbi.13586	4
+Asterales	Asteraceae	Carthamus tinctorius	12	1170	chromosome	60.13%	33343	Epsilon+Gamma+WGT	Wu et al., 2021	https://doi.org/10.1111/pbi.13586	3
 Asterales	Asteraceae	Chrysanthemum indicum	9	3080	chromosome	74.71%	68186	Epsilon+Gamma+WGT	Hou et al., 2024	https://doi.org/10.1111/tpj.16854	3
 Asterales	Asteraceae	Chrysanthemum lavandulifolium	9	2640	chromosome	66.67%	64257	Epsilon+Gamma+WGT	Wen et al., 2022	https://doi.org/10.1093/hr/uhab022	3
 Asterales	Asteraceae	Chrysanthemum makinoi	9	1720	chromosome	80.04%	95064	Epsilon+Gamma+WGT	Lieshout et al., 2022	https://doi.org/10.1093/g3journal/jkab358	3
@@ -86,17 +86,17 @@ Asterales	Asteraceae	Lactuca sativa	9	2500	chromosome	74.20%	38919	Epsilon+Gamma
 Asterales	Asteraceae	Mikania micrantha Kunth	19	1860	chromosome	73.36%	46351	Epsilon+Gamma+WGT+WGD	Liu et al., 2020	https://doi.org/10.1038/s41467-019-13926-4	4
 Asterales	Asteraceae	Smallanthus sonchifolius	29	2600	chromosome	85.00%	89960	Epsilon+Gamma+WGT+WGD+WGD	Fan et al., 2022	https://doi.org/10.1111/1755-0998.13675	5
 Asterales	Asteraceae	Stevia rebaudiana Bertoni	11	1160	chromosome	80.11%	44143	Epsilon+Gamma+WGT+WGD	Xu et al., 2021	https://doi.org/10.1038/s41438-021-00565-4	4
-Asterales	Asteraceae	Taraxacum kok-saghyz	8	1,101.79	chromosome	75.93%	45224	Epsilon+Gamma+WGT	Lin et al., 2022	https://doi.org/10.1007/s11427-021-2033-2	3
+Asterales	Asteraceae	Taraxacum kok-saghyz	8	1101.79	chromosome	75.93%	45224	Epsilon+Gamma+WGT	Lin et al., 2022	https://doi.org/10.1007/s11427-021-2033-2	3
 Asterales	Asteraceae	Taraxacum kok-saghyz Rodin	8	1290	scaffold	68.56%	46731	Epsilon+Gamma+WGT	Lin et al., 2018	https://doi.org/10.1093/nsr/nwx101	3
 Asterales	Asteraceae	Taraxacum mongolicum	8	790	chromosome	71.94%	45553	Epsilon+Gamma+WGT	Lin et al., 2022	https://doi.org/10.1007/s11427-021-2033-2	3
-Asterales	Campanulaceae	Platycodon grandiflorus	9	683.3	chromosome	36.20%	40017		Kim et al., 2020	https://doi.org/10.1038/s41438-020-0329-x	
-Boraginales	Boraginaceae	Lithospermum erythrorhizon	14	369.34	scaffold	51.78%	27720		Auber et al., 2020	https://doi.org/10.1038/s41438-020-0301-9	
+Asterales	Campanulaceae	Platycodon grandiflorus	9	683.3	chromosome	36.20%	40017	NA	Kim et al., 2020	https://doi.org/10.1038/s41438-020-0329-x	NA
+Boraginales	Boraginaceae	Lithospermum erythrorhizon	14	369.34	scaffold	51.78%	27720	NA	Auber et al., 2020	https://doi.org/10.1038/s41438-020-0301-9	NA
 Brassicales	Akaniaceae	Bretschneidera sinensis	9	1210	chromosome	55.21%	45839	Epsilon+Gamma+Beta	Zhang et al., 2022	https://doi.org/10.1093/gigascience/giac050	3
 Brassicales	Brassicaceae	Aethionema arabicum	11	320	chromosome	45.90%	24932	Epsilon+Gamma+Beta+AtAlpha	Nguyen et al., 2019	https://doi.org/10.1111/tpj.15161	4
-Brassicales	Brassicaceae	Arabidopsis arenosa	13	307	chromosome		45585	Epsilon+Gamma+Beta+AtAlpha+WGD	Burns et al., 2021	https://doi.org/10.1038/s41559-021-01525-w	5
-Brassicales	Brassicaceae	Arabidopsis halleri	8	250	chromosome		32553	Epsilon+Gamma+Beta+AtAlpha	Briskine et al., 2016	https://doi.org/10.1111/1755-0998.12604	4
-Brassicales	Brassicaceae	Arabidopsis halleri gemmifera	8	196	scaffold	20.80%		Epsilon+Gamma+Beta+AtAlpha	Legrand et al., 2019	https://doi.org/10.1186/s13100-019-0171-6	4
-Brassicales	Brassicaceae	Arabidopsis halleri halleri	8	174	scaffold	15.20%		Epsilon+Gamma+Beta+AtAlpha	Legrand et al., 2019	https://doi.org/10.1186/s13100-019-0171-6	4
+Brassicales	Brassicaceae	Arabidopsis arenosa	13	307	chromosome	NA	45585	Epsilon+Gamma+Beta+AtAlpha+WGD	Burns et al., 2021	https://doi.org/10.1038/s41559-021-01525-w	5
+Brassicales	Brassicaceae	Arabidopsis halleri	8	250	chromosome	NA	32553	Epsilon+Gamma+Beta+AtAlpha	Briskine et al., 2016	https://doi.org/10.1111/1755-0998.12604	4
+Brassicales	Brassicaceae	Arabidopsis halleri gemmifera	8	196	scaffold	20.80%	NA	Epsilon+Gamma+Beta+AtAlpha	Legrand et al., 2019	https://doi.org/10.1186/s13100-019-0171-6	4
+Brassicales	Brassicaceae	Arabidopsis halleri halleri	8	174	scaffold	15.20%	NA	Epsilon+Gamma+Beta+AtAlpha	Legrand et al., 2019	https://doi.org/10.1186/s13100-019-0171-6	4
 Brassicales	Brassicaceae	Arabidopsis lyrata subsp lyrata	8	230	chromosome	27.80%	32670	Epsilon+Gamma+Beta+AtAlpha	Hu et al., 2011	https://doi.org/10.1038/ng.807	4
 Brassicales	Brassicaceae	Arabidopsis thaliana Col-0	5	157	chromosome	19.10%	27655	Epsilon+Gamma+Beta+AtAlpha	Cheng et al., 2016; The Arabidopsis Genome Initiative 2000	https://doi.org/10.1111/tpj.13415	4
 Brassicales	Brassicaceae	Arabidopsis thaliana Col-PEK	5	134	chromosome	26.58%	27416	Epsilon+Gamma+Beta+AtAlpha	Hou et al., 2022	https://doi.org/10.1016/j.molp.2022.05.014	4
@@ -104,16 +104,16 @@ Brassicales	Brassicaceae	Arabis alpina	8	370	chromosome	50.48%	29470	Epsilon+Gam
 Brassicales	Brassicaceae	Boechera fecunda	7	188.8	scaffold	35.00%	28501	Epsilon+Gamma+Beta+AtAlpha	Zhang et al., 2020	https://doi.org/10.3389/fevo.2020.550936	4
 Brassicales	Brassicaceae	Boechera retrofracta	7	226.87	scaffold	38.13%	27048	Epsilon+Gamma+Beta+AtAlpha	Kliver et al., 2018	https://doi.org/10.3390/genes9040185	4
 Brassicales	Brassicaceae	Brassica carinata	17	642	chromosome	58.34%	97149	Epsilon+Gamma+Beta+AtAlpha+BrAlpha+WGD	Song et al., 2021	https://doi.org/10.1093/plphys/kiab048	6
-Brassicales	Brassicaceae	Brassica cretica	9	332.3	chromosome		63131	Epsilon+Gamma+Beta+AtAlpha+BrAlpha	Kioukis et al., 2020	https://doi.org/10.1186/s12864-019-6439-x	5
+Brassicales	Brassicaceae	Brassica cretica	9	332.3	chromosome	NA	63131	Epsilon+Gamma+Beta+AtAlpha+BrAlpha	Kioukis et al., 2020	https://doi.org/10.1186/s12864-019-6439-x	5
 Brassicales	Brassicaceae	Brassica juncea var. tumida	18	922	chromosome	34.28%	80050	Epsilon+Gamma+Beta+AtAlpha+BrAlpha+WGD	Yang et al., 2016	https://doi.org/10.1038/ng.3657	6
 Brassicales	Brassicaceae	Brassica napus L.	19	862	chromosome	53.86%	108190	Epsilon+Gamma+Beta+AtAlpha+BrAlpha+WGD	Gueutin et al., 2020	https://doi.org/10.1093/gigascience/giaa137	6
 Brassicales	Brassicaceae	Brassica nigra (L.) K. Koch	8	560	chromosome	57.53%	54855	Epsilon+Gamma+Beta+AtAlpha+BrAlpha	Yang et al., 2022	https://doi.org/10.1111/tpj.16043	5
 Brassicales	Brassicaceae	Brassica oleracea L.	9	630	chromosome	38.80%	45758	Epsilon+Gamma+Beta+AtAlpha+BrAlpha	Liu et al., 2014	https://doi.org/10.1038/ncomms4930	5
 Brassicales	Brassicaceae	Brassica rapa L.	10	455	chromosome	53.78%	47531	Epsilon+Gamma+Beta+AtAlpha+BrAlpha	Zhang et al., 2018; Zhang et al., 2023	https://doi.org/10.1038/s41438-018-0071-9	5
 Brassicales	Brassicaceae	Brassica rapa var. parachinensis	10	384	chromosome	52.00%	47598	Epsilon+Gamma+Beta+AtAlpha+BrAlpha	Li et al., 2023	https://doi.org/10.3390/plants12132498	5
-Brassicales	Brassicaceae	Camelina neglecta	6	210	chromosome	45.30%	26595	Epsilon+Gamma+Beta+AtAlpha	Wang et al., 2024	https://doi.org/10.1186/s13068-024-02466-9	
+Brassicales	Brassicaceae	Camelina neglecta	6	210	chromosome	45.30%	26595	Epsilon+Gamma+Beta+AtAlpha	Wang et al., 2024	https://doi.org/10.1186/s13068-024-02466-9	4
 Brassicales	Brassicaceae	Camelina sativa	20	785	chromosome	28.00%	89418	Epsilon+Gamma+Beta+AtAlpha+WGT	Kagale et al., 2014	https://doi.org/10.1038/ncomms4706	5
-Brassicales	Brassicaceae	Capsella bursa-pastoris	16	410	scaffold		53502	Epsilon+Gamma+Beta+AtAlpha+WGD	Kasianov et al., 2017	https://doi.org/10.1111/tpj.13563	5
+Brassicales	Brassicaceae	Capsella bursa-pastoris	16	410	scaffold	NA	53502	Epsilon+Gamma+Beta+AtAlpha+WGD	Kasianov et al., 2017	https://doi.org/10.1111/tpj.13563	5
 Brassicales	Brassicaceae	Capsella rubella	8	219	chromosome	45.00%	26521	Epsilon+Gamma+Beta+AtAlpha	Slotte et al., 2013	https://doi.org/10.1038/ng.2669	4
 Brassicales	Brassicaceae	Cardamine enshiensis	16	481.37	chromosome	61.40%	52725	Epsilon+Gamma+Beta+AtAlpha+WGD	Huang et al., 2021	https://doi.org/10.1038/s41421-021-00286-x	5
 Brassicales	Brassicaceae	Cardamine hirsuta	8	225	chromosome	40.00%	29458	Epsilon+Gamma+Beta+AtAlpha	Gan et al., 2016	https://doi.org/10.1038/nplants.2016.167	4
@@ -129,7 +129,7 @@ Brassicales	Brassicaceae	Eutrema yunnanense	7	423	scaffold	70.00%	28881	Epsilon+
 Brassicales	Brassicaceae	Heliophila variabilis	11	334	chromosome	43.87%	32351	Epsilon+Gamma+Beta+AtAlpha+WGD+WGD	Huang et al., 2023	https://doi.org/10.1111/tpj.16383	6
 Brassicales	Brassicaceae	Isatis indigotica	7	279.9	chromosome	53.27%	30323	Epsilon+Gamma+Beta+AtAlpha	Kang et al., 2020	https://doi.org/10.1038/s41438-020-0240-5	4
 Brassicales	Brassicaceae	Lepidium meyenii Walp	32	751	scaffold	47.65%	96417	Epsilon+Gamma+Beta+AtAlpha+2xWGD	Zhang et al., 2016	https://doi.org/10.1016/j.molp.2016.04.016	6
-Brassicales	Brassicaceae	Lepidium sativum L.	8	380	scaffold		25668	Epsilon+Gamma+Beta+AtAlpha	Patat et al., 2022	https://doi.org/10.1007/s10142-022-00866-4	4
+Brassicales	Brassicaceae	Lepidium sativum L.	8	380	scaffold	NA	25668	Epsilon+Gamma+Beta+AtAlpha	Patat et al., 2022	https://doi.org/10.1007/s10142-022-00866-4	4
 Brassicales	Brassicaceae	Megacarpaea delavayi	9	899	scaffold	61.59%	41114	Epsilon+Gamma+Beta+AtAlpha+WGD	Yang et al., 2020	https://doi.org/10.3389/fgene.2020.00812	5
 Brassicales	Brassicaceae	Megadenia pygmaea	6	215.2	chromosome	42.66%	25607	Epsilon+Gamma+Beta+AtAlpha	Yang et al., 2020	https://doi.org/10.1111/1755-0998.13291	4
 Brassicales	Brassicaceae	Orychophragmus violaceus	12	1270	chromosome	74.89%	61097	Epsilon+Gamma+Beta+AtAlpha+WGD	Huang et al., 2022	https://doi.org/10.1016/j.xplc.2022.100432	5
@@ -137,7 +137,7 @@ Brassicales	Brassicaceae	Pugionium cornutum	11	570	chromosome	72.80%	31412	Epsil
 Brassicales	Brassicaceae	Pugionium dolabratum	11	606	chromosome	65.00%	30614	Epsilon+Gamma+Beta+AtAlpha+WGD	Hu et al., 2021	https://doi.org/10.1073/pnas.2025711118	5
 Brassicales	Brassicaceae	Raphanus sativus	9	498.5	chromosome	50.70%	89915	Epsilon+Gamma+Beta+AtAlpha	Shirasawa et al., 2020	https://doi.org/10.1093/dnares/dsaa010	4
 Brassicales	Brassicaceae	Rorippa aquatica	15	420	chromosome	46.04%	46197	Epsilon+Gamma+Beta+AtAlpha+WGD	Sakamoto et al., 2022	https://doi.org/10.1101/2022.06.06.494894	5
-Brassicales	Brassicaceae	Rorippa aquatica	15	420	chromosome		46197	Epsilon+Gamma+Beta+AtAlpha+WGD	Sakamoto et al., 2024	https://doi.org/10.1038/s42003-024-06088-7	5
+Brassicales	Brassicaceae	Rorippa aquatica	15	420	chromosome	NA	46197	Epsilon+Gamma+Beta+AtAlpha+WGD	Sakamoto et al., 2024	https://doi.org/10.1038/s42003-024-06088-7	5
 Brassicales	Brassicaceae	Schrenkiella parvula	7	140	chromosome	7.46%	30419	Epsilon+Gamma+Beta+AtAlpha	Dassanayake et al., 2011	https://doi.org/10.1038/s41467-019-12607-6	4
 Brassicales	Brassicaceae	Sinapis alba L.	12	518	chromosome	58.33%	41127	Epsilon+Gamma+Beta+AtAlpha	Yang et al., 2022	https://doi.org/10.1111/tpj.16043	4
 Brassicales	Brassicaceae	Sinapis arvensis L.	9	489	chromosome	55.12%	48463	Epsilon+Gamma+Beta+AtAlpha	Yang et al., 2022	https://doi.org/10.1111/tpj.16043	4
@@ -151,15 +151,15 @@ Buxales	Buxaceae	Buxus austro-yunnanensis	14	663.9	chromosome	65.86%	25542	WGD	W
 Buxales	Buxaceae	Buxus sinica	14	850	chromosome	76.40%	27027	WGD	Chanderbali et al., 2022	https://doi.org/10.1038/s41467-022-28312-w	1
 Buxales	Buxaceae	Tetracentron sinense	19	975	chromosome	78.50%	30704	WGD+WGD	Chanderbali et al., 2022	https://doi.org/10.1038/s41467-022-28312-w	2
 Caryophyllales	Amaranthaceae	Amaranthus cruentus	17	376.4	chromosome	58.00%	25477	Epsilon+Gamma+WGD	Ma et al., 2021	https://doi.org/10.1111/tpj.15298	3
-Caryophyllales	Amaranthaceae	Amaranthus hybridus	16	503.8	scaffold		24325	Epsilon+Gamma+WGD	Montgomery et al., 2020	https://doi.org/10.1093/gbe/evaa177	3
+Caryophyllales	Amaranthaceae	Amaranthus hybridus	16	503.8	scaffold	NA	24325	Epsilon+Gamma+WGD	Montgomery et al., 2020	https://doi.org/10.1093/gbe/evaa177	3
 Caryophyllales	Amaranthaceae	Amaranthus hypochondriacus	16	431.8	chromosome	48.00%	23847	Epsilon+Gamma+WGD	Lightfoot et al., 2017	https://doi.org/10.1186/s12915-017-0412-4	3
-Caryophyllales	Amaranthaceae	Amaranthus palmeri		421.8	scaffold	58.00%	29758	Epsilon+Gamma+WGD	Montgomery et al., 2020	https://doi.org/10.1093/gbe/evaa177	3
+Caryophyllales	Amaranthaceae	Amaranthus palmeri	NA	421.8	scaffold	58.00%	29758	Epsilon+Gamma+WGD	Montgomery et al., 2020	https://doi.org/10.1093/gbe/evaa177	3
 Caryophyllales	Amaranthaceae	Amaranthus tricolor	17	562.5	chromosome	68.00%	27813	Epsilon+Gamma+WGD	Wang et al., 2023	https://doi.org/10.1093/dnares/dsac050	3
 Caryophyllales	Amaranthaceae	Amaranthus tuberculatus	16	675.6	scaffold	69.00%	26784	Epsilon+Gamma+WGD	Montgomery et al., 2020	https://doi.org/10.1093/gbe/evaa177	3
 Caryophyllales	Cactaceae	Hylocereus undatus	11	1440	chromosome	58.89%	28992	Epsilon+Gamma+WGD	Zheng et al., 2021	https://doi.org/10.1038/s41438-021-00501-6	3
-Caryophyllales	Caryophyllaceae	Dianthus caryophyllus L.	15	622	scaffold	33.00%	43266		Yagi et al., 2014	https://doi.org/10.1093/dnares/dst053	
-Caryophyllales	Caryophyllaceae	Heliosperma pusillum		1300	scaffold	71.00%	25661		Szukala et al., 2022	https://doi.org/10.1111/mec.16393	
-Caryophyllales	Caryophyllaceae	Silene latifolia - male	12	2800	scaffold	61.40%			Krasovec et al., 2018	https://doi.org/10.1016/j.cub.2018.04.069	
+Caryophyllales	Caryophyllaceae	Dianthus caryophyllus L.	15	622	scaffold	33.00%	43266	NA	Yagi et al., 2014	https://doi.org/10.1093/dnares/dst053	NA
+Caryophyllales	Caryophyllaceae	Heliosperma pusillum	NA	1300	scaffold	71.00%	25661	NA	Szukala et al., 2022	https://doi.org/10.1111/mec.16393	NA
+Caryophyllales	Caryophyllaceae	Silene latifolia - male	12	2800	scaffold	61.40%	NA	NA	Krasovec et al., 2018	https://doi.org/10.1016/j.cub.2018.04.069	NA
 Caryophyllales	Chenopodiaceae	Beta patula	9	653	chromosome	40.00%	25127	Epsilon+Gamma	Río et al., 2019 	https://doi.org/10.1111/tpj.14413	2
 Caryophyllales	Chenopodiaceae	Beta vulgaris ssp. Maritima	9	567	chromosome	51.00%	27662	Epsilon+Gamma	Río et al., 2019 	https://doi.org/10.1111/tpj.14413	2
 Caryophyllales	Chenopodiaceae	Beta vulgaris ssp. vulgaris	9	714	chromosome	63.00%	27421	Epsilon+Gamma	Dohm et al., 2014	https://doi.org/10.1038/nature12817	2
@@ -172,48 +172,48 @@ Caryophyllales	Chenopodiaceae	Suaeda aralocaspica	9	467	scaffold	38.41%	29604	Ep
 Caryophyllales	Droseraceae	Aldrovanda vesiculosa	24	509	scaffold	17.50%	25123	WGD+WGD	Palfalvi et al., 2020	https://doi.org/10.1016/j.cub.2020.04.051	2
 Caryophyllales	Droseraceae	Dionaea muscipula	16	3180	scaffold	38.78%	21135	WGD	Palfalvi et al., 2020	https://doi.org/10.1016/j.cub.2020.04.051	1
 Caryophyllales	Droseraceae	Drosera spatulata	20	323	scaffold	5.70%	18111	WGD	Palfalvi et al., 2020	https://doi.org/10.1016/j.cub.2020.04.051	1
-Caryophyllales	Kewaceae	Kewa caespitosa		623	scaffold		50661		Pucker et al., 2020	https://doi.org/10.1101/646133	
-Caryophyllales	Molluginaceae	Macarthuria australis		497.5	scaffold		80236		Pucker et al., 2020	https://doi.org/10.1101/646133	
-Caryophyllales	Molluginaceae	Pharnaceum exiguum		265	scaffold		26155		Pucker et al., 2020	https://doi.org/10.1101/646133	
-Caryophyllales	Plumbaginaceae	Limonium bicolor	8	2920	chromosome	82.30%	38444		Yuan et al., 2022	https://doi.org/10.1016/j.molp.2022.04.011	
-Caryophyllales	Polygonaceae	Fagopyrum esculentum	8	1200	scaffold	64.80%	29514		Penin et al., 2021	https://doi.org/10.3389/fpls.2021.612382	
-Caryophyllales	Polygonaceae	Polygonum cuspidatum	44	2600	scaffold	71.54%	55075		Zhang et al., 2019	https://doi.org/10.3389/fpls.2019.01274	
+Caryophyllales	Kewaceae	Kewa caespitosa	NA	623	scaffold	NA	50661	NA	Pucker et al., 2020	https://doi.org/10.1101/646133	NA
+Caryophyllales	Molluginaceae	Macarthuria australis	NA	497.5	scaffold	NA	80236	NA	Pucker et al., 2020	https://doi.org/10.1101/646133	NA
+Caryophyllales	Molluginaceae	Pharnaceum exiguum	NA	265	scaffold	NA	26155	NA	Pucker et al., 2020	https://doi.org/10.1101/646133	NA
+Caryophyllales	Plumbaginaceae	Limonium bicolor	8	2920	chromosome	82.30%	38444	NA	Yuan et al., 2022	https://doi.org/10.1016/j.molp.2022.04.011	NA
+Caryophyllales	Polygonaceae	Fagopyrum esculentum	8	1200	scaffold	64.80%	29514	NA	Penin et al., 2021	https://doi.org/10.3389/fpls.2021.612382	NA
+Caryophyllales	Polygonaceae	Polygonum cuspidatum	44	2600	scaffold	71.54%	55075	NA	Zhang et al., 2019	https://doi.org/10.3389/fpls.2019.01274	NA
 Caryophyllales	Simmondsiaceae	Simmondsia chinensis	26	887	chromosome	69.33%	23490	Epsilon+Gamma+WGT	Sturtevant et al., 2020	https://doi.org/10.1126/sciadv.aay3240	2
 Celastrales	Celastraceae	Tripterygium wilfordii	23	365.95	chromosome	52.36%	28321	WGT+WGT	Tu et al., 2020	https://doi.org/10.1038/s41467-020-14776-1	2
 Chloranthales	Chloranthaceae	Chloranthus spicatus	15	2970	chromosome	70.09%	21392	K-WGD	Guo et al., 2021	https://doi.org/10.1038/s41467-021-26922-4	1
 Cornales	Cornaceae	Cornus controversa	10	768.81	chromosome	52.23%	39886	Epsilon+Gamma+WGD	Dong et al., 2023	https://doi.org/10.1093/dnares/dsac051	3
-Cornales	Hydrangeaceae	Hydrangea macrophylla	18	2200	chromosome		36930		Nashima et al., 2021	https://doi.org/10.1093/dnares/dsaa026	
-Cornales	Nyssaceae	Nyssa sinensis	22	1051.16	chromosome	66.40%	37884		Yang et al., 2019	https://doi.org/10.1038/s41597-019-0296-y	
-Cornales	Nyssaceae	Nyssa yunnanensis		1640	scaffold	54.24%	39803		Mu et al., 2020	https://doi.org/10.46471/gigabyte.4	
+Cornales	Hydrangeaceae	Hydrangea macrophylla	18	2200	chromosome	NA	36930	NA	Nashima et al., 2021	https://doi.org/10.1093/dnares/dsaa026	NA
+Cornales	Nyssaceae	Nyssa sinensis	22	1051.16	chromosome	66.40%	37884	NA	Yang et al., 2019	https://doi.org/10.1038/s41597-019-0296-y	NA
+Cornales	Nyssaceae	Nyssa yunnanensis	NA	1640	scaffold	54.24%	39803	NA	Mu et al., 2020	https://doi.org/10.46471/gigabyte.4	NA
 Cucurbitales	Begoniaceae	Begonia darthvaderiana	15	797	chromosome	70.33%	23444	Epsilon+Gamma+WGD	Li et al., 2022	https://doi.org/10.1111/nph.17949	3
 Cucurbitales	Begoniaceae	Begonia loranthoides	19	724	chromosome	66.52%	22059	Epsilon+Gamma+WGD	Li et al., 2022	https://doi.org/10.1111/nph.17949	3
 Cucurbitales	Begoniaceae	Begonia masoniana	15	806	chromosome	68.40%	22861	Epsilon+Gamma+WGD	Li et al., 2022	https://doi.org/10.1111/nph.17949	3
 Cucurbitales	Begoniaceae	Begonia peltatifolia	15	349	chromosome	51.47%	23010	Epsilon+Gamma+WGD	Li et al., 2022	https://doi.org/10.1111/nph.17949	3
 Cucurbitales	Cucurbitaceae	Benincasa hispida	12	1030	chromosome	75.50%	27467	Epsilon+Gamma+CCT-WGD	Xie et al., 2019	https://doi.org/10.1038/s41467-019-13185-3	3
-Cucurbitales	Cucurbitaceae	Citrullus lanatus subsp. Cordophanus	11	367.9	chromosome	57.70%	23043		Renner et al., 2021	https://doi.org/10.1073/pnas.2101486118	
-Cucurbitales	Cucurbitaceae	Cucumis melo L.	12	398.57	chromosome	48.27%	22924		Zhang et al., 2019	https://doi.org/10.1016/j.isci.2019.10.049	
-Cucurbitales	Cucurbitaceae	Cucumis sativus L.	7	350	chromosome	36.43%	24317		Li et al., 2019	https://doi.org/10.1093/gigascience/giz072	
+Cucurbitales	Cucurbitaceae	Citrullus lanatus subsp. Cordophanus	11	367.9	chromosome	57.70%	23043	NA	Renner et al., 2021	https://doi.org/10.1073/pnas.2101486118	NA
+Cucurbitales	Cucurbitaceae	Cucumis melo L.	12	398.57	chromosome	48.27%	22924	NA	Zhang et al., 2019	https://doi.org/10.1016/j.isci.2019.10.049	NA
+Cucurbitales	Cucurbitaceae	Cucumis sativus L.	7	350	chromosome	36.43%	24317	NA	Li et al., 2019	https://doi.org/10.1093/gigascience/giz072	NA
 Cucurbitales	Cucurbitaceae	Cucurbita argyrosperma	20	263.5	scaffold	34.10%	28298	Epsilon+Gamma+WGD	Barrera-Redondo et al., 2019	https://doi.org/10.1016/j.molp.2018.12.023	3
 Cucurbitales	Cucurbitaceae	Cucurbita maxima	20	386.8	chromosome	69.90%	32076	Epsilon+Gamma+WGD	Sun et al., 2017	https://doi.org/10.1016/j.molp.2017.09.003	3
 Cucurbitales	Cucurbitaceae	Cucurbita moschata	20	372	chromosome	62.90%	32205	Epsilon+Gamma+WGD	Sun et al., 2017	https://doi.org/10.1016/j.molp.2017.09.003	3
 Cucurbitales	Cucurbitaceae	Cucurbita pepo	20	263.5	chromosome	37.80%	27870	Epsilon+Gamma+WGD	Montero-Pau et al., 2017	https://doi.org/10.1111/pbi.12860	3
-Cucurbitales	Cucurbitaceae	Gynostemma pentaphyllum	11	635	chromosome	59.14%	25282		Huang et al., 2021	https://doi.org/10.1093/dnares/dsab018	
-Cucurbitales	Cucurbitaceae	Lagenaria siceraria	11	272	chromosome	45.00%	23541		Xu et al., 2021	https://doi.org/10.1111/tpj.15358	
+Cucurbitales	Cucurbitaceae	Gynostemma pentaphyllum	11	635	chromosome	59.14%	25282	NA	Huang et al., 2021	https://doi.org/10.1093/dnares/dsab018	NA
+Cucurbitales	Cucurbitaceae	Lagenaria siceraria	11	272	chromosome	45.00%	23541	NA	Xu et al., 2021	https://doi.org/10.1111/tpj.15358	NA
 Cucurbitales	Cucurbitaceae	Luffa acutangula	13	734.6	chromosome	62.17%	32233	Epsilon+Gamma+CCT-WGD	Pootakham et al., 2020	https://doi.org/10.1111/1755-0998.13240	3
 Cucurbitales	Cucurbitaceae	Luffa cylindrica	13	689.8	chromosome	56.78%	43828	Epsilon+Gamma+CCT-WGD	Pootakham et al., 2020	https://doi.org/10.1111/1755-0998.13240	3
 Cucurbitales	Cucurbitaceae	Momordica charantia L.	11	286.4	chromosome	45.59%	20068	Epsilon+Gamma+CCT-WGD	Fu et al., 2023	https://doi.org/10.1093/hr/uhac228	3
-Dioscoreales	Dioscoreaceae	Dioscorea alata L.	20	416	chromosome		25189	Epsilon+Tau+Sigma+WGD+WGD	Bredeson et al., 2022	https://doi.org/10.1038/s41467-022-29114-w	5
-Dioscoreales	Dioscoreaceae	Dioscorea dumetorum	20	254	scaffold		35269		Siadjeu et al., 2020	https://doi.org/10.3390/genes11030274	
+Dioscoreales	Dioscoreaceae	Dioscorea alata L.	20	416	chromosome	NA	25189	Epsilon+Tau+Sigma+WGD+WGD	Bredeson et al., 2022	https://doi.org/10.1038/s41467-022-29114-w	5
+Dioscoreales	Dioscoreaceae	Dioscorea dumetorum	20	254	scaffold	NA	35269	NA	Siadjeu et al., 2020	https://doi.org/10.3390/genes11030274	NA
 Dioscoreales	Dioscoreaceae	Dioscorea zingiberensis	10	629	chromosome	56.50%	30322	WGD+WGD	Li et al., 2022	https://doi.org/10.1093/hr/uhac165	2
-Dipsacales	Caprifoliaceae	Lonicera japonica	9	817.45	chromosome	64.76%	39320		Yu et al., 2022	https://doi.org/10.1038/s41597-022-01385-4	
+Dipsacales	Caprifoliaceae	Lonicera japonica	9	817.45	chromosome	64.76%	39320	NA	Yu et al., 2022	https://doi.org/10.1038/s41597-022-01385-4	NA
 Ericales	Actinidiaceae	Actinidia arguta M1	58	2770	chromosome	49.38%	186191	Epsilon+Gamma+WGD+WGD+WGD	Lu et al., 2024	https://doi.org/10.1016/j.xplc.2024.100856	5
 Ericales	Actinidiaceae	Actinidia chinensis	29	637	chromosome	51.42%	41317	Epsilon+Gamma+WGD+WGD	Xue Han et al., 2022	https://doi.org/10.1016/j.molp.2022.12.022	4
 Ericales	Actinidiaceae	Actinidia eriantha cv. White	29	745.3	chromosome	43.30%	42988	Epsilon+Gamma+WGD+WGD	Wei Tang et al., 2019	https://doi.org/10.1093/gigascience/giz027	4
 Ericales	Actinidiaceae	Actinidia latifolia	29	637	chromosome	49.76%	42685	Epsilon+Gamma+WGD+WGD	Xue Han et al., 2022	https://doi.org/10.1016/j.molp.2022.12.022	4
-Ericales	Ebenaceae	Diospyros lotus -seeded	15	616	chromosome	73.81%	22844		Mao et al., 2021	https://doi.org/10.48130/FR-2021-0009	
-Ericales	Ebenaceae	Diospyros lotus -seedless	15	682	chromosome	69.56%	20689		Mao et al., 2021	https://doi.org/10.48130/FR-2021-0009	
-Ericales	Ebenaceae	Diospyros oleifera Cheng	15	868.41	chromosome	54.80%	30530		Suo et al., 2020	https://doi.org/10.1093/gigascience/giz164	
-Ericales	Ericaceae	Arctostaphylos glauca	13	600	chromosome	57.71%			Huang et al., 2021	https://doi.org/10.1093/jhered/esab071	
+Ericales	Ebenaceae	Diospyros lotus -seeded	15	616	chromosome	73.81%	22844	NA	Mao et al., 2021	https://doi.org/10.48130/FR-2021-0009	NA
+Ericales	Ebenaceae	Diospyros lotus -seedless	15	682	chromosome	69.56%	20689	NA	Mao et al., 2021	https://doi.org/10.48130/FR-2021-0009	NA
+Ericales	Ebenaceae	Diospyros oleifera Cheng	15	868.41	chromosome	54.80%	30530	NA	Suo et al., 2020	https://doi.org/10.1093/gigascience/giz164	NA
+Ericales	Ericaceae	Arctostaphylos glauca	13	600	chromosome	57.71%	NA	NA	Huang et al., 2021	https://doi.org/10.1093/jhered/esab071	NA
 Ericales	Ericaceae	Rhododendron delavayi Franch.	13	697.94	scaffold	51.77%	32938	Epsilon+Gamma+WGD	Zhang et al., 2017	https://doi.org/10.1093/gigascience/gix076	3
 Ericales	Ericaceae	Rhododendron griersonianum	13	750	chromosome	57.00%	52016	Epsilon+Gamma+WGD	Ma et al., 2021	https://doi.org/10.1111/tpj.15399	3
 Ericales	Ericaceae	Rhododendron henanense	13	654.12	chromosome	65.76%	31098	Epsilon+Gamma+WGD	Zhou et al., 2021	https://doi.org/10.1111/1755-0998.13529	3
@@ -227,11 +227,11 @@ Ericales	Ericaceae	Vaccinium darrowii	12	565.7	chromosome	45.74%	34809	Epsilon+G
 Ericales	Ericaceae	Vaccinium macrocarpon Ait.	12	492.78	chromosome	51.75%	23532	Epsilon+Gamma+WGD	Diaz-Garcia et al., 2021	https://doi.org/10.3389/fpls.2021.633310	3
 Ericales	Ericaceae	Vaccinium microcarpum	12	764.21	chromosome	40.96%	30147	Epsilon+Gamma+WGD	Diaz-Garcia et al., 2021	https://doi.org/10.3389/fpls.2021.633310	3
 Ericales	Ericaceae	Vaccinium myrtillus L.	12	600	chromosome	48.00%	36404	Epsilon+Gamma+WGD	Wu et al., 2021	https://doi.org/10.1111/1755-0998.13467	3
-Ericales	Polemoniaceae	Linanthus parryae	9	1960	chromosome	71.99%			Anghel et al., 2022	https://doi.org/10.1093/jhered/esac052	
-Ericales	Primulaceae	Aegiceras corniculatum		827	scaffold	72.10%	32092	Epsilon+Gamma+WGD	Feng et al., 2021	https://doi.org/10.1111/nph.17551	3
-Ericales	Primulaceae	Primula veris	11	479.22	scaffold	7.00%	19507		Nowak et al., 2015	https://doi.org/10.1186/s13059-014-0567-z	
-Ericales	Primulaceae	Primula veris	11	479.22	scaffold		19507	Epsilon+Gamma	Nowak et al., 2015	https://doi.org/10.1186/s13059-014-0567-z	2
-Ericales	Primulaceae	Primula vulgaris	11	459	scaffold	37.00%	29087		Cocker et al., 2018	https://doi.org/10.1038/s41598-018-36304-4	
+Ericales	Polemoniaceae	Linanthus parryae	9	1960	chromosome	71.99%	NA	NA	Anghel et al., 2022	https://doi.org/10.1093/jhered/esac052	NA
+Ericales	Primulaceae	Aegiceras corniculatum	NA	827	scaffold	72.10%	32092	Epsilon+Gamma+WGD	Feng et al., 2021	https://doi.org/10.1111/nph.17551	3
+Ericales	Primulaceae	Primula veris	11	479.22	scaffold	7.00%	19507	NA	Nowak et al., 2015	https://doi.org/10.1186/s13059-014-0567-z	NA
+Ericales	Primulaceae	Primula veris	11	479.22	scaffold	NA	19507	Epsilon+Gamma	Nowak et al., 2015	https://doi.org/10.1186/s13059-014-0567-z	2
+Ericales	Primulaceae	Primula vulgaris	11	459	scaffold	37.00%	29087	NA	Cocker et al., 2018	https://doi.org/10.1038/s41598-018-36304-4	NA
 Ericales	Theaceae	Camellia chekiangoleosa	15	2730	chromosome	79.09%	64608	Epsilon+Gamma+WGD	Shen et al., 2022	https://doi.org/10.1093/hr/uhab083	3
 Ericales	Theaceae	Camellia lanceoleosa	15	3140	chromosome	80.63%	54172	Epsilon+Gamma+WGD	Gong et al., 2022	https://doi.org/10.1111/tpj.15739	3
 Ericales	Theaceae	Camellia sinensis	15	3150	chromosome	78.20%	42825	Epsilon+Gamma+WGD	Zhang et al., 2021	https://doi.org/10.1038/s41588-021-00895-y	3
@@ -245,39 +245,39 @@ Fabales	Fabaceae	Calophaca sinica Rehd. 1933	8	1060	chromosome	73.00%	28977	Epsi
 Fabales	Fabaceae	Cercis chinensis	7	330	chromosome	50.28%	30612	Epsilon+Gamma	Li et al., 2023	https://doi.org/10.1016/j.xplc.2022.100422	2
 Fabales	Fabaceae	Cicer arietinum L.	8	738.09	chromosome	49.41%	28269	Epsilon+Gamma+WGD	Varshney et al., 2013	https://doi.org/10.1038/nbt.2491	3
 Fabales	Fabaceae	Cicer reticulatum L.	8	802.003	chromosome	63.00%	25680	Epsilon+Gamma+WGD	Gupta et al., 2017	https://doi.org/10.1093/dnares/dsw042	3
-Fabales	Fabaceae	Cyamopsis tetragonoloba (L.) Taub.	7	543.22	chromosome	42.14%	37509		Gaikwad et al., 2020	https://doi.org/10.1101/2020.05.16.098434	
+Fabales	Fabaceae	Cyamopsis tetragonoloba (L.) Taub.	7	543.22	chromosome	42.14%	37509	NA	Gaikwad et al., 2020	https://doi.org/10.1101/2020.05.16.098434	NA
 Fabales	Fabaceae	Entada phaseoloides	14	456	chromosome	52.70%	24894	Epsilon+Gamma+WGD	Lin et al., 2022	https://doi.org/10.1111/1755-0998.13662	3
 Fabales	Fabaceae	Glycine latifolia	20	978	chromosome	41.00%	54475	Epsilon+Gamma+WGD+WGD	Liu et al., 2018	https://doi.org/10.1111/tpj.13931	4
 Fabales	Fabaceae	Glycine max	20	1115	chromosome	57.00%	46430	Epsilon+Gamma+WGD+WGD	Schmutz et al., 2010	https://doi.org/10.1038/nature08670	4
 Fabales	Fabaceae	Glycyrrhiza uralensis	8	397	chromosome	61.70%	32941	Epsilon+Gamma+WGD	Rai et al., 2022	https://doi.org/10.1093/dnares/dsac043	3
-Fabales	Fabaceae	Lathyrus sativus	7	3800	chromosome	83.31%	50106		Rajarammohan et al., 2023	https://doi.org/10.1038/s41597-022-01903-4	
+Fabales	Fabaceae	Lathyrus sativus	7	3800	chromosome	83.31%	50106	NA	Rajarammohan et al., 2023	https://doi.org/10.1038/s41597-022-01903-4	NA
 Fabales	Fabaceae	Lotus japonicus	6	500	chromosome	46.96%	30243	Epsilon+Gamma+WGD	Kamal et al., 2020	https://doi.org/10.1093/dnares/dsaa015	3
 Fabales	Fabaceae	Lupinus albus	25	584.51	chromosome	43.86%	48719	Epsilon+Gamma+WGD+WGT	Xu et al., 2020	https://doi.org/10.1038/s41467-020-14891-z	4
 Fabales	Fabaceae	Lupinus angustifolius L.	20	924	chromosome	54.37%	33076	Epsilon+Gamma+WGD+WGT	Hane et al., 2016	https://doi.org/10.1111/pbi.12615	4
-Fabales	Fabaceae	Macrotyloma uniflorum	10	343.6	chromosome	29.00%	46095		Shirasawa et al., 2021	https://doi.org/10.46471/gigabyte.30	
+Fabales	Fabaceae	Macrotyloma uniflorum	10	343.6	chromosome	29.00%	46095	NA	Shirasawa et al., 2021	https://doi.org/10.46471/gigabyte.30	NA
 Fabales	Fabaceae	Medicago polymorpha	7	505.19	chromosome	38.04%	36087	Epsilon+Gamma+WGD	Cui et al., 2021	https://doi.org/10.1038/s41438-021-00483-5	3
 Fabales	Fabaceae	Medicago ruthenica	8	902.97	chromosome	68.63%	50268	Epsilon+Gamma+WGD	Yin et al., 2021	https://doi.org/10.1111/1755-0998.13363	3
-Fabales	Fabaceae	Medicago truncatula	8	465	chromosome		50894	Epsilon+Gamma+WGD	Tang et al., 2014	https://doi.org/10.1186/1471-2164-15-312	3
+Fabales	Fabaceae	Medicago truncatula	8	465	chromosome	NA	50894	Epsilon+Gamma+WGD	Tang et al., 2014	https://doi.org/10.1186/1471-2164-15-312	3
 Fabales	Fabaceae	Melilotus officinalis	8	1080	chromosome	71.35%	47873	Epsilon+Gamma+WGD	Meng et al., 2024	https://doi.org/10.1186/s12863-024-01224-y	3
 Fabales	Fabaceae	Mucuna pruriens	11	500.49	chromosome	39.75%	28010	Epsilon+Gamma+WGD	Hao et al., 2022	https://doi.org/10.1093/dnares/dsac031	3
 Fabales	Fabaceae	Oxytropis ochrocephala	8	958.83	chromosome	75.66%	31700	Epsilon+Gamma+WGD	Zhang et al., 2022	https://doi.org/10.1111/1755-0998.13695	3
 Fabales	Fabaceae	Phaseolus lunatus L.	11	622	chromosome	41.00%	28326	Epsilon+Gamma+WGD	Garcia et al., 2021	https://doi.org/10.1038/s41467-021-20921-1	3
 Fabales	Fabaceae	Phaseolus vulgaris L.	11	587	chromosome	45.42%	27197	Epsilon+Gamma+WGD	Schmutz et al., 2014	https://doi.org/10.1038/ng.3008	3
-Fabales	Fabaceae	Prosopis cineraria	14	707	chromosome	58.00%	76554		Sudalaimuthuasari et al., 2022	https://doi.org/10.3390/ijms23158503	
+Fabales	Fabaceae	Prosopis cineraria	14	707	chromosome	58.00%	76554	NA	Sudalaimuthuasari et al., 2022	https://doi.org/10.3390/ijms23158503	NA
 Fabales	Fabaceae	Pueraria lobata var. montana	11	1257.56	chromosome	77.75%	38812	Epsilon+Gamma+WGD+WGD	Mo et al., 2022	https://doi.org/10.1093/dnares/dsac030	4
 Fabales	Fabaceae	Pueraria lobata var. thomsonii	11	1350	chromosome	62.70%	45270	Epsilon+Gamma+WGD+WGD	Shang et al., 2022	https://doi.org/10.1093/hr/uhab035	4
 Fabales	Fabaceae	Senna tora	13	547	chromosome	53.90%	45268	Epsilon+Gamma+WGD	Kang et al., 2020	https://doi.org/10.1038/s41467-020-19681-1	3
-Fabales	Fabaceae	Spatholobus suberectus	9	793	chromosome	47.82%	31634		Qin et al., 2019	https://doi.org/10.1038/s41597-019-0110-x	
+Fabales	Fabaceae	Spatholobus suberectus	9	793	chromosome	47.82%	31634	NA	Qin et al., 2019	https://doi.org/10.1038/s41597-019-0110-x	NA
 Fabales	Fabaceae	Styphnolobium japonicum	14	539	chromosome	38.54%	34568	Epsilon+Gamma+WGD	Chen et al., 2022	https://doi.org/10.1016/j.indcrop.2022.115336	3
-Fabales	Fabaceae	Trifolium pratense L.	7	418	chromosome	45.14%	44588		Ištvánek et al., 2014, Yan et al., 2022	https://doi.org/10.3732/ajb.1300340	
-Fabales	Fabaceae	Trifolium subterraneum L.	8	540	chromosome	64.00%	31272		Kaur et al., 2017	https://doi.org/10.1111/pbi.12697	
+Fabales	Fabaceae	Trifolium pratense L.	7	418	chromosome	45.14%	44588	NA	Ištvánek et al., 2014, Yan et al., 2022	https://doi.org/10.3732/ajb.1300340	NA
+Fabales	Fabaceae	Trifolium subterraneum L.	8	540	chromosome	64.00%	31272	NA	Kaur et al., 2017	https://doi.org/10.1111/pbi.12697	NA
 Fabales	Fabaceae	Vicia sativa	6	1610	chromosome	84.37%	58330	Epsilon+Gamma+WGD	Xi et al., 2021	https://doi.org/10.46471/gigabyte.38	3
 Fabales	Fabaceae	Vigna angularis	11	538	chromosome	44.51%	34183	Epsilon+Gamma+WGD	Yang et al., 2015	https://doi.org/10.1073/pnas.1420949112	3
 Fabales	Fabaceae	Vigna mungo	11	574	chromosome	41.10%	29411	Epsilon+Gamma+WGD	Pootakham et al., 2020	https://doi.org/10.1111/1755-0998.13243	3
 Fabales	Fabaceae	Vigna radiata L.	11	543	chromosome	50.10%	22427	Epsilon+Gamma+WGD	Kang et al., 2014	https://doi.org/10.1038/ncomms6443	3
 Fabales	Fabaceae	Vigna unguiculata ssp. Sesquipedialis	11	590	chromosome	46.47%	42609	Epsilon+Gamma+WGD	Xia et al., 2019	https://doi.org/10.1038/s41597-019-0130-6	3
 Fagales	Betulaceae	Betula L. (birch)	14	441	chromosome	43.00%	31253	Epsilon+Gamma	Chen et al., 2021	https://doi.org/10.1038/s41438-021-00481-7	2
-Fagales	Betulaceae	Carpinus fangiana	8	396.74	chromosome	41.08%	27381		Yang et al., 2020	https://doi.org/10.1038/s41597-020-0370-5	
+Fagales	Betulaceae	Carpinus fangiana	8	396.74	chromosome	41.08%	27381	NA	Yang et al., 2020	https://doi.org/10.1038/s41597-020-0370-5	NA
 Fagales	Betulaceae	Corylus avellana L.	11	378	chromosome	11.87%	27270	Epsilon+Gamma	Lucas et al., 2020	https://doi.org/10.1111/tpj.15099	2
 Fagales	Betulaceae	Corylus mandshurica	11	367.67	chromosome	68.74%	28409	Epsilon+Gamma	Li et al., 2021	https://doi.org/10.1038/s41438-021-00495-1	2
 Fagales	Casuarinaceae	Casuarina equisetifolia	9	300	scaffold	33.00%	29827	Epsilon+Gamma+WGD	Ye et al., 2018	https://doi.org/10.1111/tpj.14159	3
@@ -285,7 +285,7 @@ Fagales	Fagaceae	Carya cathayensis	16	721.33	chromosome	53.67%	32907	Epsilon+Gam
 Fagales	Fagaceae	Carya illinoinensis	16	649.75	chromosome	50.43%	31075	Epsilon+Gamma+WGD	Huang et al., 2019	https://doi.org/10.1093/gigascience/giz036	3
 Fagales	Fagaceae	Castanea crenata Sieb. et Zucc.	12	665.9	chromosome	59.00%	69980	Epsilon+Gamma	Shirasawa et al., 2021	https://doi.org/10.1093/dnares/dsab016	2
 Fagales	Fagaceae	Castanea mollissima	12	772	scaffold	49.69%	36479	Epsilon+Gamma	Xing et al., 2019	https://doi.org/10.1093/gigascience/giz112	2
-Fagales	Fagaceae	Fagus sylvatica	12	535.4	chromosome	57.12%	63736		Mishra et al., 2022	https://doi.org/10.3389/fgene.2021.691058	
+Fagales	Fagaceae	Fagus sylvatica	12	535.4	chromosome	57.12%	63736	NA	Mishra et al., 2022	https://doi.org/10.3389/fgene.2021.691058	NA
 Fagales	Fagaceae	Juglans cathayensis	16	751.37	scaffold	48.03%	34066	Epsilon+Gamma+WGD	Trouern-Trend et al., 2019	https://doi.org/10.1111/tpj.14630	3
 Fagales	Fagaceae	Juglans hindsii	16	605.7	scaffold	46.97%	28664	Epsilon+Gamma+WGD	Trouern-Trend et al., 2019	https://doi.org/10.1111/tpj.14630	3
 Fagales	Fagaceae	Juglans mandshurica	16	548	chromosome	62.42%	29032	Epsilon+Gamma+WGD	Yan et al., 2021	https://doi.org/10.1111/1755-0998.13394	3
@@ -293,16 +293,16 @@ Fagales	Fagaceae	Juglans microcarpa	16	1056	chromosome	40.86%	29496	Epsilon+Gamm
 Fagales	Fagaceae	Juglans nigra	16	540.8	chromosome	44.60%	29506	Epsilon+Gamma+WGD	Zhou et al., 2023	https://doi.org/10.1093/hr/uhad015	3
 Fagales	Fagaceae	Juglans regia	16	606	chromosome	58.40%	37554	Epsilon+Gamma+WGD	Marrano et al., 2020	https://doi.org/10.1093/gigascience/giaa050	3
 Fagales	Fagaceae	Juglans sigillata	16	619	chromosome	50.06%	30387	Epsilon+Gamma+WGD	Ning et al., 2020	https://doi.org/10.1093/gigascience/giaa006	3
-Fagales	Fagaceae	Quercus lobata	12	730	scaffold	52.00%	61773		Sork et al., 2016	https://doi.org/10.1534/g3.116.030411	
+Fagales	Fagaceae	Quercus lobata	12	730	scaffold	52.00%	61773	Epsilon+Gamma	Sork et al., 2016	https://doi.org/10.1534/g3.116.030411	2
 Fagales	Fagaceae	Quercus mongolica Fisch.	12	842.8	chromosome	53.75%	36553	Epsilon+Gamma	Ai et al., 2022	https://doi.org/10.1111/1755-0998.13616	2
 Garryales	Eucommiaceae	Eucommia ulmoides	17	1020	chromosome	62.50%	26001	Epsilon+Gamma+WGD	Li et al., 2020	https://doi.org/10.1038/s41438-020-00406-w	3
-Gentianales	Apocynaceae	Calotropis gigantea	11	225	scaffold	28.30%	18436		Hoopes et al., 2018	https://doi.org/10.1534/g3.117.300331	
+Gentianales	Apocynaceae	Calotropis gigantea	11	225	scaffold	28.30%	18436	Epsilon+Gamma	Hoopes et al., 2018	https://doi.org/10.1534/g3.117.300331	2
 Gentianales	Apocynaceae	Rhazya stricta	11	274	scaffold	16.00%	21164	Epsilon+Gamma	Sabir et al., 2016	https://doi.org/10.1038/srep33782	2
 Gentianales	Apocynaceae	Vinca minor	23	504	scaffold	48.03%	29624	Epsilon+Gamma	Stander et al., 2022	https://doi.org/10.1093/g3journal/jkac268	2
 Gentianales	Apocynaceae	Voacanga thouarsii	11	1351.26	scaffold	75.16%	33300	Epsilon+Gamma	Cuello et al., 2022	https://doi.org/10.1093/gbe/evac158	2
 Gentianales	Gentianaceae	Gentiana dahurica	13	1317	chromosome	70.25%	37988	Epsilon+Gamma+WGD+WGD	Li et al., 2022	https://doi.org/10.1093/dnares/dsac008	4
 Gentianales	Gentianaceae	Gentiana macrophylla	13	1790	chromosome	73.47%	55337	Epsilon+Gamma+WGD+WGD	Zhou et al., 2022	https://doi.org/10.1093/dnares/dsac034	4
-Gentianales	Rubiaceae	Coffea arabica	22	1300	chromosome		24478	Epsilon+Gamma+WGD	Tran et al., 2018	https://doi.org/10.1111/pbi.12912	3
+Gentianales	Rubiaceae	Coffea arabica	22	1300	chromosome	NA	24478	Epsilon+Gamma+WGD	Tran et al., 2018	https://doi.org/10.1111/pbi.12912	3
 Gentianales	Rubiaceae	Coffea canephora 	11	710	chromosome	50.00%	25574	Epsilon+Gamma	Denoeud et al., 2014	https://doi.org/10.1126/science.1255274	2
 Gentianales	Rubiaceae	Coffea humblotiana	11	406	chromosome	35.00%	32874	Epsilon+Gamma	Raharimalala et al., 2021	https://doi.org/10.1038/s41598-021-87419-0	2
 Gentianales	Rubiaceae	Leptodermis oblonga	11	513.94	chromosome	62.03%	28987	Epsilon+Gamma	Guo et al., 2021	https://doi.org/10.1016/j.ygeno.2021.07.012	2
@@ -310,26 +310,26 @@ Gentianales	Rubiaceae	Mitragyna speciosa	22	727	chromosome	51.21%	39708	Epsilon+
 Gentianales	Rubiaceae	Ophiorrhiza pumila	11	439.9	chromosome	58.17%	32389	Epsilon+Gamma	Rai et al., 2021	https://doi.org/10.1038/s41467-020-20508-2	2
 Lamiales	Acanthaceae	Andrographis paniculata	24	280	chromosome	57.35%	24015	Epsilon+Gamma+WGD+WGD	Liang et al., 2020	https://doi.org/10.3389/fgene.2020.00701	4
 Lamiales	Acanthaceae	Avicennia marina (Forsk.) Vierh.	32	456.5	chromosome	40.20%	41206	Epsilon+Gamma+WGD	Friis et al., 2021	https://doi.org/10.1093/g3journal/jkaa025	3
-Lamiales	Acanthaceae	Ruellia speciosa	17	1100	scaffold	70.00%	37848		Zhuang et al., 2017	https://doi.org/10.1093/dnares/dsw054	
-Lamiales	Bignoniaceae	Handroanthus guayacan	20	512	scaffold	45.59%			Burley et al., 2021	https://doi.org/10.1093/g3journal/jkab010	
+Lamiales	Acanthaceae	Ruellia speciosa	17	1100	scaffold	70.00%	37848	NA	Zhuang et al., 2017	https://doi.org/10.1093/dnares/dsw054	NA
+Lamiales	Bignoniaceae	Handroanthus guayacan	20	512	scaffold	45.59%	NA	Epsilon+Gamma+WGD	Burley et al., 2021	https://doi.org/10.1093/g3journal/jkab010	3
 Lamiales	Bignoniaceae	Handroanthus impetiginosus	20	557	scaffold	31.00%	31688	Epsilon+Gamma+WGD	Bonfim Silva-Junior et al., 2017	https://doi.org/10.1093/gigascience/gix125	3
-Lamiales	Bignoniaceae	Jacaranda copaia		558.6	scaffold	59.31%		Epsilon+Gamma+WGD	Burley et al., 2021	https://doi.org/10.1093/g3journal/jkab010	
+Lamiales	Bignoniaceae	Jacaranda copaia	NA	558.6	scaffold	59.31%	NA	Epsilon+Gamma+WGD	Burley et al., 2021	https://doi.org/10.1093/g3journal/jkab010	3
 Lamiales	Bignoniaceae	Jacaranda mimosifolia	18	739	chromosome	56.80%	30507	Epsilon+Gamma+WGD	Wang et al., 2021	https://doi.org/10.1093/gbe/evab094	3
-Lamiales	Callicarpoideae	Callicarpa americana						Epsilon+Gamma+WGD			
+Lamiales	Callicarpoideae	Callicarpa americana	17	506.1	chromosome	55.90%	32164	Epsilon+Gamma+WGD	Hamilton et al., 2020	https://doi.org/10.1093/gigascience/giaa093	3
 Lamiales	Gesneriaceae	Boea hygrometrica	9	1548	scaffold	75.16%	49374	Epsilon+Gamma	Xiao et al., 2015	https://doi.org/10.1073/pnas.1505811112	2
-Lamiales	Gesneriaceae	Primulina eburnea	18	811.04	chromosome		31807	Epsilon+Gamma+WGD+WGD	Yi et al., 2022	https://doi.org/10.1111/mec.16706	4
+Lamiales	Gesneriaceae	Primulina eburnea	18	811.04	chromosome	NA	31807	Epsilon+Gamma+WGD+WGD	Yi et al., 2022	https://doi.org/10.1111/mec.16706	4
 Lamiales	Gesneriaceae	Primulina huaijiensis	18	547	chromosome	54.10%	31328	Epsilon+Gamma+WGD+WGD	Feng et al., 2020	https://doi.org/10.1111/nph.16588	4
-Lamiales	Gesneriaceae	Primulina tabacum	18	804.26	chromosome		32725	Epsilon+Gamma+WGD+WGD	Yi et al., 2022	https://doi.org/10.1111/mec.16706	4
+Lamiales	Gesneriaceae	Primulina tabacum	18	804.26	chromosome	NA	32725	Epsilon+Gamma+WGD+WGD	Yi et al., 2022	https://doi.org/10.1111/mec.16706	4
 Lamiales	Gesneriaceae	Streptocarpus rexii	16	929	scaffold	70.97%	45045	Epsilon+Gamma+WGD+WGD	Nishii et al., 2022	https://doi.org/10.1002/pld3.388	4
-Lamiales	Lamiaceae	Leonotis japonicus						Epsilon+Gamma+WGD			
-Lamiales	Lamiaceae	Leonotis leonurus		688	scaffold	57.90%	148846		Bryson et al., 2023	https://doi.org/10.1038/s41467-023-35845-1	
-Lamiales	Lamiaceae	Mentha longifolia L.	12	470	chromosome	42.00%	42107		Vining et al., 2022	https://doi.org/10.1093/g3journal/jkac112	
-Lamiales	Lamiaceae	Ocimum basilicum L.	24	2130	scaffold	76.00%	62067	tetraploid	Gonda et al., 2020	https://doi.org/10.1093/dnares/dsaa027	
+Lamiales	Lamiaceae	Leonurus japonicus	10	489.34	chromosome	NA	22531	Epsilon+Gamma+WGD	Wang et al., 2024	https://doi.org/10.1038/s41597-023-02901-w	3
+Lamiales	Lamiaceae	Leonotis leonurus	NA	688	scaffold	57.90%	148846	NA	Bryson et al., 2023	https://doi.org/10.1038/s41467-023-35845-1	NA
+Lamiales	Lamiaceae	Mentha longifolia L.	12	470	chromosome	42.00%	42107	NA	Vining et al., 2022	https://doi.org/10.1093/g3journal/jkac112	NA
+Lamiales	Lamiaceae	Ocimum basilicum L.	24	2130	scaffold	76.00%	62067	tetraploid	Gonda et al., 2020	https://doi.org/10.1093/dnares/dsaa027	NA
 Lamiales	Lamiaceae	Perilla citriodora	10	676.9	chromosome	56.70%	19,978	Epsilon+Gamma+WGD	Zhang et al 2021	https://doi.org/10.1038/s41467-021-25681-6	3
-Lamiales	Lamiaceae	Perilla frutescens	20	1259	chromosome	68.84%	76825		Tamura et al., 2023	https://doi.org/10.1093/dnares/dsac044	
-Lamiales	Lamiaceae	Perilla frutescens	20	1241	chromosome	64.10%	23,549	Epsilon+Gamma+WGD+WGD	Zhang et al 2021	https://doi.org/10.1038/s41467-021-25681-6	4
-Lamiales	Lamiaceae	Plectranthus barbatus		1250	scaffold	74.40%	413222		Bryson et al., 2023	https://doi.org/10.1038/s41467-023-35845-1	
-Lamiales	Lamiaceae	Prunella vulgaris	14	786	scaffold	68.30%	229613		Bryson et al., 2023	https://doi.org/10.1038/s41467-023-35845-1	
+Lamiales	Lamiaceae	Perilla frutescens	20	1259	chromosome	68.84%	76825	Epsilon+Gamma+WGD+WGD	Tamura et al., 2023	https://doi.org/10.1093/dnares/dsac044	4
+Lamiales	Lamiaceae	Perilla frutescens	20	1241	chromosome	64.10%	23549	Epsilon+Gamma+WGD+WGD	Zhang et al 2021	https://doi.org/10.1038/s41467-021-25681-6	4
+Lamiales	Lamiaceae	Plectranthus barbatus	NA	1250	scaffold	74.40%	413222	NA	Bryson et al., 2023	https://doi.org/10.1038/s41467-023-35845-1	NA
+Lamiales	Lamiaceae	Prunella vulgaris	14	786	scaffold	68.30%	229613	NA	Bryson et al., 2023	https://doi.org/10.1038/s41467-023-35845-1	NA
 Lamiales	Lamiaceae	Salvia miltiorrhiza	8	572.17	scaffold	64.84%	32483	Epsilon+Gamma+WGD	Song et al., 2020	https://doi.org/10.1002/tpg2.20041	3
 Lamiales	Lamiaceae	Salvia splendens	22	807	chromosome	56.94%	56267	Epsilon+Gamma+WGD+WGD+WGD	Jia et al., 2021	https://doi.org/10.1038/s41438-021-00614-y	5
 Lamiales	Lamiaceae	Schizonepeta tenuifolia	6	762	chromosome		30283	Epsilon+Gamma+WGD	Liu et al., 2023	https://doi.org/10.1016/j.molp.2023.01.004	3
@@ -337,8 +337,8 @@ Lamiales	Lamiaceae	Scutellaria baicalensis	9	408.14	chromosome	55.15%	28930	Epsi
 Lamiales	Lamiaceae	Tectona grandis	17	338	chromosome	32.02%	31168	Epsilon+Gamma+WGD	Zhao et al., 2019	https://doi.org/10.1093/gigascience/giz005	3
 Lamiales	Lamiaceae	Thymus mongolicus	12	605.2	chromosome	70.98%	32593	Epsilon+Gamma+WGD	Dang et al., 2024	https://doi.org/10.1186/s12864-024-10202-8	3
 Lamiales	Lamiaceae	Thymus quinquecostatus	13	528.66	chromosome	70.61%	29676	Epsilon+Gamma+WGD	Sun et al., 2022	https://doi.org/10.1016/j.xplc.2022.100413	3
-Lamiales	Lentibulariaceae	Genlisea aurea	26	63.6	scaffold	7.20%	17755		Leushkin et al., 2013	https://doi.org/10.1186/1471-2164-14-476	
-Lamiales	Lentibulariaceae	Utricularia gibba	14	77.38	chromosome	3.00%		Epsilon+Gamma+WGD+WGD+WGD	Ibarra-Laclette et al., 2013	https://doi.org/10.1038/nature12132	5
+Lamiales	Lentibulariaceae	Genlisea aurea	26	63.6	scaffold	7.20%	17755	NA	Leushkin et al., 2013	https://doi.org/10.1186/1471-2164-14-476	NA
+Lamiales	Lentibulariaceae	Utricularia gibba	14	77.38	chromosome	3.00%	NA	Epsilon+Gamma+WGD+WGD+WGD	Ibarra-Laclette et al., 2013	https://doi.org/10.1038/nature12132	5
 Lamiales	Lentibulariaceae	Utricularia reniformis	20	317.1	scaffold	56.00%	42582	Epsilon+Gamma+WGD+WGD+WGD+WGD	Silva et al., 2019 	https://doi.org/10.3390/ijms21010003	6
 Lamiales	Linderniaceae	Craterostigma plantagineum	56	1030	chromosome	35.00%	222749	Epsilon+Gamma+WGD+2xWGD	VanBuren et al., 2022	https://doi.org/10.1101/2022.05.31.494158	5
 Lamiales	Linderniaceae	Lindernia brevidens	14	270	chromosome	34.00%	27204	Epsilon+Gamma+WGD	VanBuren et al., 2018	https://doi.org/10.1105/tpc.18.00517	3
@@ -352,16 +352,17 @@ Lamiales	Oleaceae	Fraxinus pennsylvanica	23	757	chromosome	49.43%	35470	Epsilon+
 Lamiales	Oleaceae	Jasminum sambac	13	510	chromosome	59.70%	21143	Epsilon+Gamma+WGT	Xu et al., 2021	https://doi.org/10.1111/1755-0998.13497	3
 Lamiales	Oleaceae	Olea europaea var. sylvestris	23	1460	chromosome	51.00%	50684	Epsilon+Gamma+WGT+WGD	Unver et al., 2017	https://doi.org/10.1073/pnas.1708621114	4
 Lamiales	Oleaceae	Osmanthus fragrans	23	733.5	chromosome	49.35%	45542	Epsilon+Gamma+WGD+WGD	Yang et al., 2018	https://doi.org/10.1038/s41438-019-0144-4	4
-Lamiales	Orobanchaceae	Pedicularis kansuensis	8	1930	chromosome	62.37%	42782		Fang et al., 2024	https://doi.org/10.1111/1755-0998.13966	
+Lamiales	Orobanchaceae	Pedicularis kansuensis	8	1930	chromosome	62.37%	42782	NA	Fang et al., 2024	https://doi.org/10.1111/1755-0998.13966	NA
 Lamiales	Orobanchaceae	Rehmannia glutinosa	14	2350	chromosome	67.00%	48475	Epsilon+Gamma+WGD+WGD	Ma et al., 2021	https://doi.org/10.1016/j.csbj.2021.07.006	4
 Lamiales	Orobanchaceae	Striga asiatica 	20	472	scaffold		34577	Epsilon+Gamma+WGD+WGD	Yoshida et al., 2019	https://doi.org/10.1016/j.cub.2019.07.086	4
 Lamiales	Paulowniaceae	Paulownia fortunei	20	528.24	chromosome	50.34%	31985	Epsilon+Gamma+WGD	Cao et al., 2021	https://doi.org/10.1016/j.molp.2021.06.021	3
 Lamiales	Pedaliaceae	Sesamum indicum L.	13	337	chromosome	52.81%	24345	Epsilon+Gamma+WGD	Wang et al., 2022	https://doi.org/10.1093/dnares/dsac041	3
-Lamiales	Plantaginaceae	Adenosma indiana						Epsilon+Gamma+WGD			
+Lamiales	Plantaginaceae	Adenosma indiana	14	442.84	chromosome	58.62%	24367	Epsilon+Gamma+WGD	Huang et al., 2023	https://doi.org/10.1038/s41597-023-02571-8	3
 Lamiales	Plantaginaceae	Antirrhinum majus	8	510	chromosome	52.60%	37714	Epsilon+Gamma+WGT	Li et al., 2019	https://doi.org/10.1038/s41477-018-0349-9	3
-Lamiales	Plantaginaceae	Plantago ovata	4	484.11	chromosome	61.90%	41820		Herliana et al., 2023	https://doi.org/10.1038/s41598-022-25078-5	
+Lamiales	Plantaginaceae	Plantago ovata	4	484.11	chromosome	61.90%	41820	NA	Herliana et al., 2023	https://doi.org/10.1038/s41598-022-25078-5	NA
 Lamiales	Scrophulariaceae	Buddleja alternifolia	19	854	chromosome	71.70%	29434	Epsilon+Gamma+WGD	Ma et al., 2021	https://doi.org/10.1111/nph.17637	3
-Lamiales	Verbenaceae	Petrea volubilis						Epsilon+Gamma+WGD			
+Caryophyllales	Polygonaceae	Persicaria tinctoria	20	1680	chromosome	77.90%	76742	tetraploid	Li et al., 2024	https://doi.org/10.1038/s41597-024-04317-6	NA
+Lamiales	Verbenaceae	Petrea volubilis	17	480.2	chromosome	57.80%	30982	Epsilon+Gamma+WGD	Hamilton et al., 2023	https://doi.org/10.1186/s12863-023-01110-z	3
 Laurales	Calycanthaceae	Chimonanthus praecox	11	778.71	chromosome	45.73%	23591	Epsilon+Lamda+WGD	Shang et al., 2020	https://doi.org/10.1186/s13059-020-02088-y	3
 Laurales	Calycanthaceae	Chimonanthus salicifolius	11	835.5	chromosome	57.70%	36651	Epsilon+Lamda+WGD	Lv et al., 2020	https://doi.org/10.1111/tpj.14874	3
 Laurales	Lauraceae	Cinnamomum burmannii	12	940	chromosome	63.24%	41549	Epsilon+Lamda+WGD	Li et al., 2022	https://doi.org/10.1016/j.indcrop.2022.115181	3
@@ -373,26 +374,26 @@ Laurales	Lauraceae	Persea americana	12	920	chromosome	62.00%	42796	Epsilon+Lamda
 Magnoliales	Magnoliaceae	Liriodendron chinense	19	1750	chromosome	61.64%	35269	Epsilon+Lamda	Chen et al., 2019	https://doi.org/10.1038/s41477-018-0323-6	2
 Magnoliales	Magnoliaceae	Magnolia biondii Pamp.	19	2220	chromosome	66.48%	47547	Epsilon+Lamda	Dong et al., 2021	https://doi.org/10.1038/s41438-021-00471-9	2
 Magnoliales	Magnoliaceae	Magnolia officinalis	19	1760	chromosome	81.44%	23050	Epsilon+Lamda	Yin et al., 2021	https://doi.org/10.1016/j.isci.2021.102997	2
-Malpighiales	Calophyllaceae	Mesua ferrea	16	496.72	scaffold		46500		Bharatraj Patil  et al., 2021	https://doi.org/10.1016/j.gene.2020.145214	
+Malpighiales	Calophyllaceae	Mesua ferrea	16	496.72	scaffold	NA	46500	NA	Bharatraj Patil  et al., 2021	https://doi.org/10.1016/j.gene.2020.145214	NA
 Malpighiales	Euphorbiaceae	Euphorbia lathyris L	10	1071.07	chromosome	65.90%	36342	Epsilon+Gamma	Wang et al., 2021	https://doi.org/10.1093/dnares/dsab022	2
-Malpighiales	Euphorbiaceae	Euphorbia tirucalli	10	745.62	chromosome	76.37%	26304		Wei et al., 2024	https://doi.org/10.1038/s41597-024-03503-w	
+Malpighiales	Euphorbiaceae	Euphorbia tirucalli	10	745.62	chromosome	76.37%	26304	Epsilon+Gamma	Wei et al., 2024	https://doi.org/10.1038/s41597-024-03503-w	2
 Malpighiales	Euphorbiaceae	Hevea brasiliensis	18	1470	scaffold	71.00%	43792	Epsilon+Gamma+WGD	Tang et al., 2016	https://doi.org/10.1038/nplants.2016.73	3
 Malpighiales	Euphorbiaceae	Jatropha curcas	11	410	chromosome	36.60%	25817	Epsilon+Gamma	Chen et al., 2020; Sato et al., 2011	https://doi.org/10.1093/gigascience/giaa009	2
 Malpighiales	Euphorbiaceae	Manihot esculenta	18	770	chromosome		30666	Epsilon+Gamma+WGD	International Cassava Genetic Map Consortium (ICGMC)	https://doi.org/10.1534/g3.114.015008	3
-Malpighiales	Euphorbiaceae	Mercurialis annua	8	640	chromosome	58.00%	31604		Ridout et al., 2017	http://dx.doi.org/10.1101/106120	
+Malpighiales	Euphorbiaceae	Mercurialis annua	8	640	chromosome	58.00%	31604	NA	Ridout et al., 2017	http://dx.doi.org/10.1101/106120	NA
 Malpighiales	Euphorbiaceae	Ricinus communis L.	10	356	chromosome	53.90%	25814	Epsilon+Gamma	Xu et al., 2021	https://doi.org/10.1186/s13059-021-02333-y	2
 Malpighiales	Euphorbiaceae	Triadica sebifera	22	2950	chromosome	64.80%	63207	Epsilon+Gamma+WGD	Luo et al., 2022	https://doi.org/10.1038/s42003-022-03751-9	3
 Malpighiales	Hypericaceae	Hypericum perforatum	8	393.4	scaffold	46.90%	29150	Epsilon+Gamma+WGD	Zhou et al., 2020	https://doi.org/10.1111/jpi.12709	3
-Malpighiales	Linaceae	Linum tenue	10	690	chromosome	49.36%	52826		Gutiérrez-Valencia et al., 2022 	https://doi.org/10.1016/j.cub.2022.08.042	
+Malpighiales	Linaceae	Linum tenue	10	690	chromosome	49.36%	52826	Epsilon+Gamma+WGD	Gutiérrez-Valencia et al., 2022 	https://doi.org/10.1016/j.cub.2022.08.042	3
 Malpighiales	Linaceae	Linum usitatissimum	15	537.51	chromosome	55.36%	49616	Epsilon+Gamma+WGD	Sa et al., 2021	https://doi.org/10.3389/fgene.2021.735690	3
 Malpighiales	Passifloraceae	Passiflora edulis	9	1270	chromosome	86.61%	39309	Epsilon+Gamma+WGD	Ma et al., 2020	https://doi.org/10.1111/1755-0998.13310	3
-Malpighiales	Passifloraceae	Turnera subulata	10	674.8	scaffold	58.55%	30992		Henning  et al., 2023	https://doi.org/10.3390/plants12020286	
-Malpighiales	Phyllanthaceae	Phyllanthus emblica	104	1820	chromosome	47.70%	164235	neooctoploid	Li et al 2024	https://doi.org/10.1111/tpj.16767	
-Malpighiales	Phyllanthaceae	Sauropus spatulifolius	103	4880	chromosome	70.32%	150021	neooctoploid	Li et al 2024	https://doi.org/10.1111/tpj.16767	
-Malpighiales	Rafflesiaceae	Sapria himalayana Griff.		1690	scaffold	89.60%	55179		Cai et al., 2021	https://doi.org/10.1016/j.cub.2020.12.045	
+Malpighiales	Passifloraceae	Turnera subulata	10	674.8	scaffold	58.55%	30992	NA	Henning  et al., 2023	https://doi.org/10.3390/plants12020286	NA
+Malpighiales	Phyllanthaceae	Phyllanthus emblica	104	1820	chromosome	47.70%	164235	neooctoploid	Li et al 2024	https://doi.org/10.1111/tpj.16767	NA
+Malpighiales	Phyllanthaceae	Sauropus spatulifolius	103	4880	chromosome	70.32%	150021	neooctoploid	Li et al 2024	https://doi.org/10.1111/tpj.16767	NA
+Malpighiales	Rafflesiaceae	Sapria himalayana Griff.	NA	1690	scaffold	89.60%	55179	NA	Cai et al., 2021	https://doi.org/10.1016/j.cub.2020.12.045	NA
 Malpighiales	Rhizophoraceae	Bruguiera cylindrica	18	237.4	chromosome	28.00%	21191	Epsilon+Gamma+WGD	Shearman et al., 2022	https://doi.org/10.1016/j.ygeno.2022.110382	3
 Malpighiales	Rhizophoraceae	Bruguiera gymnorhiza	18	365	chromosome	48.00%	34403	Epsilon+Gamma+WGD	Miryeganeh et al., 2021	https://doi.org/10.1111/nph.17738	3
-Malpighiales	Rhizophoraceae	Bruguiera hainesii	36	422.2	chromosome		50413	Epsilon+Gamma+WGD	Shearman et al., 2022	https://doi.org/10.1016/j.ygeno.2022.110382	3
+Malpighiales	Rhizophoraceae	Bruguiera hainesii	36	422.2	chromosome	NA	50413	Epsilon+Gamma+WGD	Shearman et al., 2022	https://doi.org/10.1016/j.ygeno.2022.110382	3
 Malpighiales	Rhizophoraceae	Bruguiera parviflora	18	206	chromosome	26.03%	21856	Epsilon+Gamma+WGD+WGD	 Pootakham et al., 2022	https://doi.org/10.1111/1755-0998.13587	4
 Malpighiales	Rhizophoraceae	Bruguiera sexangula	18	259	chromosome	38.20%	23978	Epsilon+Gamma+WGD	 Pootakham et al., 2022	https://doi.org/10.1093/gbe/evac025	3
 Malpighiales	Rhizophoraceae	Ceriops tagal	18	228	chromosome	35.12%	22203	Epsilon+Gamma+WGD	 Pootakham et al., 2022	https://doi.org/10.1002/tpg2.20217	3
@@ -412,14 +413,14 @@ Malvales	Dipterocarpaceae	Shorea leprosula	7	391	scaffold	33.00%	60563	Epsilon+G
 Malvales	Malvaceae	Corchorus capsularis	7	404	chromosome	56.17%	30096	Epsilon+Gamma+WGD	Islam et al., 2017	https://doi.org/10.1038/nplants.2016.223	3
 Malvales	Malvaceae	Corchorus olitorius	7	448	chromosome	53.72%	37031	Epsilon+Gamma+WGD	Islam et al., 2017	https://doi.org/10.1038/nplants.2016.223	3
 Malvales	Malvaceae	Durio zibethinus	28	738	chromosome	54.80%	45335	Epsilon+Gamma+WGD	Teh et al., 2017	https://doi.org/10.1038/ng.3972	3
-Malvales	Malvaceae	Gossypioides kirkii	12	588	chromosome	31.70%	36669		Udall et al., 2019	https://doi.org/10.3389/fpls.2019.01541	
+Malvales	Malvaceae	Gossypioides kirkii	12	588	chromosome	31.70%	36669	NA	Udall et al., 2019	https://doi.org/10.3389/fpls.2019.01541	NA
 Malvales	Malvaceae	Gossypium arboreum	13	1509	chromosome	73.62%	43278	Epsilon+Gamma+WGD	Huang et al., 2020	https://doi.org/10.1038/s41588-020-0607-4	3
 Malvales	Malvaceae	Gossypium barbadense	26	2195	chromosome	72.24%	74561	Epsilon+Gamma+WGD+WGD	Chen et al., 2020	https://doi.org/10.1038/s41588-020-0614-5	4
 Malvales	Malvaceae	Gossypium bickii	13	1766	chromosome	74.19%	43790	Epsilon+Gamma+WGD	Sheng et al., 2023	https://doi.org/10.1016/j.xplc.2022.100421	3
 Malvales	Malvaceae	Gossypium darwinii	26	2182	chromosome	72.29%	78303	Epsilon+Gamma+WGD+WGD	Chen et al., 2020	https://doi.org/10.1038/s41588-020-0614-5	4
 Malvales	Malvaceae	Gossypium herbaceum	13	1489	chromosome	72.57%	43952	Epsilon+Gamma+WGD	Huang et al., 2020	https://doi.org/10.1038/s41588-020-0607-4	3
 Malvales	Malvaceae	Gossypium hirsutum	26	2305	chromosome	73.21%	75376	Epsilon+Gamma+WGD+WGD	Chen et al., 2020	https://doi.org/10.1038/s41588-020-0614-5	4
-Malvales	Malvaceae	Gossypium hirsutum L. CRI12	26	2240	chromosome		72262	Epsilon+Gamma+WGD+WGD	Liu et al., 2023	https://doi.org/10.1186/s13059-023-03124-3	3
+Malvales	Malvaceae	Gossypium hirsutum L. CRI12	26	2240	chromosome	NA	72262	Epsilon+Gamma+WGD+WGD	Liu et al., 2023	https://doi.org/10.1186/s13059-023-03124-3	3
 Malvales	Malvaceae	Gossypium mustelinum	26	2315	chromosome	72.85%	74699	Epsilon+Gamma+WGD+WGD	Chen et al., 2020	https://doi.org/10.1038/s41588-020-0614-5	4
 Malvales	Malvaceae	Gossypium raimondii	13	880	chromosome	73.30%	40976	Epsilon+Gamma+WGD	Wang et al., 2012	https://doi.org/10.1038/ng.2371	3
 Malvales	Malvaceae	Gossypium tomentosum	26	2193	chromosome	72.24%	78338	Epsilon+Gamma+WGD+WGD	Chen et al., 2020	https://doi.org/10.1038/s41588-020-0614-5	4
@@ -427,8 +428,8 @@ Malvales	Malvaceae	Gossypium turneri	13	910	chromosome	32.50%	38489	Epsilon+Gamm
 Malvales	Malvaceae	Hibiscus mutabilis	46	3032.98	chromosome	58.55%	118222	Epsilon+Gamma+WGD+WGD	Yang et al., 2022	https://doi.org/10.3389/fpls.2022.818206	4
 Malvales	Malvaceae	Hibiscus syriacus	40	1901	scaffold	57.60%	87603	Epsilon+Gamma+WGD+WGD	Kim et al., 2017	https://doi.org/10.1093/dnares/dsw049	4
 Malvales	Malvaceae	Theobroma cacao	10	430	chromosome	25.70%	28798	Epsilon+Gamma	Argout et al., 2011	https://doi.org/10.1038/ng.736	2
-Malvales	Thymelaeaceae	Aquilaria agallocha	8	736	scaffold	59.18%	40507		Chen et al., 2014	https://doi.org/10.1186/1471-2164-15-578	
-Malvales	Thymelaeaceae	Aquilaria sinensis	8	783.8	chromosome	61.22%	35965		Nong et al., 2020	https://doi.org/10.1111/1755-0998.13154	
+Malvales	Thymelaeaceae	Aquilaria agallocha	8	736	scaffold	59.18%	40507	NA	Chen et al., 2014	https://doi.org/10.1186/1471-2164-15-578	NA
+Malvales	Thymelaeaceae	Aquilaria sinensis	8	783.8	chromosome	61.22%	35965	NA	Nong et al., 2020	https://doi.org/10.1111/1755-0998.13154	NA
 Malvales	Thymelaeaceae	Stellera chamaejasme	9	439.66	chromosome	66.35%	31547	Epsilon+Gamma+WGD	Hu et al., 2022	https://doi.org/10.1111/mec.16622	3
 Myrtales	Lythraceae	Lagerstroemia speciosa	24	319.66	chromosome	36.50%	30,497	Epsilon+Gamma+WGT	Feng et al., 2024	https://doi.org/10.1038/s41467-024-46080-7	3
 Myrtales	Lythraceae	Punica granatum	8	313.18	chromosome	50.93%	33594	Epsilon+Gamma+WGD	Luo et al., 2019	https://doi.org/10.1111/pbi.13260	3
@@ -437,39 +438,39 @@ Myrtales	Melastomataceae	Melastoma candidum	12	257.1	chromosome	31.50%	40938	Eps
 Myrtales	Melastomataceae	Melastoma dodecandrum	12	299.81	chromosome	40.90%	35681	Epsilon+Gamma+WGD	Hao et al., 2022	https://doi.org/10.1016/j.jgg.2021.10.004	3
 Myrtales	Myrtaceae	Corymbia citriodora	11	408	chromosome	35.80%	35632	Epsilon+Gamma+WGD	Healey et al., 2021	https://doi.org/10.1038/s42003-021-02009-0	3
 Myrtales	Myrtaceae	Eucalyptus grandis	11	640	chromosome	50.00%	36376	Epsilon+Gamma+WGD	Myburg et al., 2014	https://doi.org/10.1038/nature13308	3
-Myrtales	Myrtaceae	Eucalyptus pauciflora	11	408.16	chromosome	44.77%		Epsilon+Gamma+WGD	Wang et al., 2020	https://doi.org/10.1093/gigascience/giz160	3
+Myrtales	Myrtaceae	Eucalyptus pauciflora	11	408.16	chromosome	44.77%	NA	Epsilon+Gamma+WGD	Wang et al., 2020	https://doi.org/10.1093/gigascience/giz160	3
 Myrtales	Myrtaceae	Leptospermum scoparium	11	218	chromosome	32.40%	31220	Epsilon+Gamma+WGD	Thrimawithana et al., 2019	https://doi.org/10.1080/01140671.2019.1657911	3
 Myrtales	Myrtaceae	Melaleuca alternifolia	11	300	scaffold	40.43%	44369	Epsilon+Gamma+WGD	Zhang et al., 2023	https://doi.org/10.1007/s11033-022-08157-8	3
-Myrtales	Myrtaceae	Metrosideros polymorpha	11	424	chromosome	8.03%	27620		Izuno et al., 2019	https://doi.org/10.1534/g3.119.400643	
+Myrtales	Myrtaceae	Metrosideros polymorpha	11	424	chromosome	8.03%	27620	Epsilon+Gamma+WGD	Izuno et al., 2019	https://doi.org/10.1534/g3.119.400643	3
 Myrtales	Myrtaceae	Psidium friedrichsthalianum	11	958	scaffold	62.60%	52422	Epsilon+Gamma+WGD	Rojas-Gómez et al., 2022	https://doi.org/10.1007/s10722-021-01291-5	3
 Myrtales	Myrtaceae	Psidium guajava	11	463.8	chromosome	43.55%	25601	Epsilon+Gamma+WGD	Feng et al., 2020	https://doi.org/10.1111/pbi.13498	3
 Myrtales	Myrtaceae	Rhodomyrtus tomentosa	11	470.35	chromosome	50.80%	33382	Epsilon+Gamma+WGD	Li et al., 2023	https://doi.org/10.1093/hr/uhad005	3
 Myrtales	Myrtaceae	Syzygium aromaticum	11	343	chromosome	43.55%	27528	Epsilon+Gamma+WGD	Ouadi et al., 2022	https://doi.org/10.1038/s42003-022-03618-z	3
 Nymphaeales	Nymphaeaceae	Nymphaea colorata	14	409	chromosome	39.20%	31580	Epsilon+WGD	Zhang et al., 2020 	https://doi.org/10.1038/s41586-019-1852-5	2
-Nymphaeales	Nymphaeaceae	Nymphaea thermarum	14	497	scaffold		25760	Epsilon+WGD	Povilus et al., 2020	https://doi.org/10.1073/pnas.1922873117	2
+Nymphaeales	Nymphaeaceae	Nymphaea thermarum	14	497	scaffold	NA	25760	Epsilon+WGD	Povilus et al., 2020	https://doi.org/10.1073/pnas.1922873117	2
 Oxalidales	Cephalotaceae	Cephalotus follicularis	10	2118	scaffold	76.00%	36503	Epsilon+Gamma	Fukushima et al., 2017	https://doi.org/10.1038/s41559-016-0059	2
 Oxalidales	Oxalidaceae	Averrhoa carambola	11	357.79	chromosome	61.30%	25419	Epsilon+Gamma	Wu et al., 2020	https://doi.org/10.1038/s41438-020-0307-3	2
-Pandanales	Velloziaceae	Acanthochlamys bracteata	20	204.24	chromosome	28.63%	23509		Gao et al., 2021	https://doi.org/10.1093/gbe/evab147	
-Pandanales	Velloziaceae	Xerophyta viscosa	24	295.5	scaffold	18.00%	25425	octoploid	Cecília D. Costa et al., 2017	https://doi.org/10.1038/nplants.2017.38	
+Pandanales	Velloziaceae	Acanthochlamys bracteata	20	204.24	chromosome	28.63%	23509	NA	Gao et al., 2021	https://doi.org/10.1093/gbe/evab147	NA
+Pandanales	Velloziaceae	Xerophyta viscosa	24	295.5	scaffold	18.00%	25425	octoploid	Cecília D. Costa et al., 2017	https://doi.org/10.1038/nplants.2017.38	NA
 Piperales	Aristolochiaceae	Aristolochia contorta	7	290.64	chromosome	38.26%	18311	Epsilon	Cui et al., 2022	https://doi.org/10.1093/hr/uhac005	1
 Piperales	Aristolochiaceae	Aristolochia fimbriata	7	258	chromosome	52.10%	21751	Epsilon	Qin et al., 2021	https://doi.org/10.1038/s41477-021-00990-2	1
 Poales	Bromeliaceae	Aechmea fasciata	24	352	chromosome	61.72%	26126	Epsilon+Tau+Sigma	Li et al., 2022	https://doi.org/10.1038/s42003-022-03918-4	3
 Poales	Bromeliaceae	Ananas comosus	25	526	chromosome	44.00%	27024	Epsilon+Tau+Sigma	Ming et al., 2015	https://doi.org/10.1038/ng.3435	3
-Poales	Bromeliaceae	Puya raimondii		330	scaffold	67.02%	26696	Epsilon+Tau+Sigma	Liu et al., 2021	https://doi.org/10.1016/j.ygeno.2021.05.042	3
-Poales	Cyperaceae	Carex cristatella	35	255.2	chromosome	40.04%	26500		Planta et al., 2022	https://doi.org/10.1093/g3journal/jkac211	
-Poales	Cyperaceae	Carex kokanica		673.4	scaffold	55.47%	36709		Qu et al., 2022	https://doi.org/10.1038/s41598-022-08783-z	
-Poales	Cyperaceae	Carex parvula	32	783.49	scaffold	52.46%	45002		Qu et al., 2022	https://doi.org/10.1038/s41598-022-08783-z	
-Poales	Cyperaceae	Carex scoparia	32	268.8	chromosome	39.93%	25799		Planta et al., 2022	https://doi.org/10.1093/g3journal/jkac211	
+Poales	Bromeliaceae	Puya raimondii	NA	330	scaffold	67.02%	26696	Epsilon+Tau+Sigma	Liu et al., 2021	https://doi.org/10.1016/j.ygeno.2021.05.042	3
+Poales	Cyperaceae	Carex cristatella	35	255.2	chromosome	40.04%	26500	NA	Planta et al., 2022	https://doi.org/10.1093/g3journal/jkac211	NA
+Poales	Cyperaceae	Carex kokanica	NA	673.4	scaffold	55.47%	36709	NA	Qu et al., 2022	https://doi.org/10.1038/s41598-022-08783-z	NA
+Poales	Cyperaceae	Carex parvula	32	783.49	scaffold	52.46%	45002	NA	Qu et al., 2022	https://doi.org/10.1038/s41598-022-08783-z	NA
+Poales	Cyperaceae	Carex scoparia	32	268.8	chromosome	39.93%	25799	NA	Planta et al., 2022	https://doi.org/10.1093/g3journal/jkac211	NA
 Poales	Cyperaceae	Cyperus esculentus L.	54	228.3	chromosome	33.90%	23613	Epsilon+Tau+Sigma+WGD	Zhao et al., 2023	https://doi.org/10.1093/gbe/evad027	4
-Poales	Cyperaceae	Rhynchospora breviuscula	5	415	chromosome		24354	Epsilon+Tau+Sigma+WGD	Hofstatter et al., 2022	https://doi.org/10.1016/j.cell.2022.06.045	4
-Poales	Cyperaceae	Rhynchospora pubera	5	1610	chromosome		91363	Epsilon+Tau+Sigma+WGD+2xWGD	Hofstatter et al., 2022	https://doi.org/10.1016/j.cell.2022.06.045	6
-Poales	Cyperaceae	Rhynchospora tenuis	2	394	chromosome		23215	Epsilon+Tau+Sigma+WGD	Hofstatter et al., 2022	https://doi.org/10.1016/j.cell.2022.06.045	4
-Poales	Juncaceae	Juncus effusus	21	271	chromosome		18942	Epsilon+Tau+Sigma	Hofstatter et al., 2022	https://doi.org/10.1016/j.cell.2022.06.045	3
+Poales	Cyperaceae	Rhynchospora breviuscula	5	415	chromosome	NA	24354	Epsilon+Tau+Sigma+WGD	Hofstatter et al., 2022	https://doi.org/10.1016/j.cell.2022.06.045	4
+Poales	Cyperaceae	Rhynchospora pubera	5	1610	chromosome	NA	91363	Epsilon+Tau+Sigma+WGD+2xWGD	Hofstatter et al., 2022	https://doi.org/10.1016/j.cell.2022.06.045	6
+Poales	Cyperaceae	Rhynchospora tenuis	2	394	chromosome	NA	23215	Epsilon+Tau+Sigma+WGD	Hofstatter et al., 2022	https://doi.org/10.1016/j.cell.2022.06.045	4
+Poales	Juncaceae	Juncus effusus	21	271	chromosome	NA	18942	Epsilon+Tau+Sigma	Hofstatter et al., 2022	https://doi.org/10.1016/j.cell.2022.06.045	3
 Poales	Juncaceae	Juncus inflexus	20	196	chromosome	42.73%	25422	Epsilon+Tau+Sigma	Planta et al., 2022	https://doi.org/10.1093/g3journal/jkac211	3
 Poales	Poaceae	Aegilops longissima	7	6700	chromosome	82.50%	31183	Epsilon+Tau+Sigma+Rho	Avni et al., 2022	https://doi.org/10.1111/tpj.15664	4
 Poales	Poaceae	Aegilops sharonensis	7	6710	chromosome	82.30%	31198	Epsilon+Tau+Sigma+Rho	Avni et al., 2022	https://doi.org/10.1111/tpj.15664	4
 Poales	Poaceae	Aegilops speltoides	7	5130	chromosome	78.70%	36928	Epsilon+Tau+Sigma+Rho	Avni et al., 2022	https://doi.org/10.1111/tpj.15664	4
-Poales	Poaceae	Alloteropsis semialata	9	750	chromosome		22043		Dunning et al., 2019	https://doi.org/10.1073/pnas.1810031116	
+Poales	Poaceae	Alloteropsis semialata	9	750	chromosome	NA	22043	NA	Dunning et al., 2019	https://doi.org/10.1073/pnas.1810031116	NA
 Poales	Poaceae	Avena atlantica	7	3720	chromosome	83.00%	51100	Epsilon+Tau+Sigma+Rho	Maughan et al., 2019	https://doi.org/10.1186/s12915-019-0712-y	4
 Poales	Poaceae	Avena eriantha	7	4170	chromosome	83.00%	49105	Epsilon+Tau+Sigma+Rho	Maughan et al., 2019	https://doi.org/10.1186/s12915-019-0712-y	4
 Poales	Poaceae	Avena longiglumis	7	3850	chromosome	87.00%	40845	Epsilon+Tau+Sigma+Rho	Liu et al., 2022	https://doi.org/10.1101/2022.02.09.479819	4
@@ -485,11 +486,11 @@ Poales	Poaceae	Echinochloa colona	27	1127.2	chromosome	44.50%	93697	Epsilon+Tau+
 Poales	Poaceae	Echinochloa crus-galli	27	1339.8	chromosome	47.70%	104780	Epsilon+Tau+Sigma+Rho+WGT	Wu et al., 2022	https://doi.org/10.1038/s41467-022-28359-9	5
 Poales	Poaceae	Echinochloa haploclada	9	420	chromosome	41.09%	36946	Epsilon+Tau+Sigma+Rho	Ye et al., 2020	https://doi.org/10.1016/j.molp.2020.07.001	4
 Poales	Poaceae	Echinochloa oryzicola	18	945.6	chromosome	51.50%	68544	Epsilon+Tau+Sigma+Rho+WGD	Wu et al., 2022	https://doi.org/10.1038/s41467-022-28359-9	5
-Poales	Poaceae	Eleusine indica	9	584	scaffold	21.90%	25467		Zhang et al., 2019	https://doi.org/10.1002/ps.5389	
-Poales	Poaceae	Eragrostis curvula	10	603	chromosome	28.70%	56469		Carballo et al., 2019	https://doi.org/10.1038/s41598-019-46610-0	
-Poales	Poaceae	Eragrostis tef	20	622	chromosome	25.60%	68255		VanBuren et al., 2020	https://doi.org/10.1038/s41467-020-14724-z	
+Poales	Poaceae	Eleusine indica	9	584	scaffold	21.90%	25467	NA	Zhang et al., 2019	https://doi.org/10.1002/ps.5389	NA
+Poales	Poaceae	Eragrostis curvula	10	603	chromosome	28.70%	56469	NA	Carballo et al., 2019	https://doi.org/10.1038/s41598-019-46610-0	NA
+Poales	Poaceae	Eragrostis tef	20	622	chromosome	25.60%	68255	NA	VanBuren et al., 2020	https://doi.org/10.1038/s41467-020-14724-z	NA
 Poales	Poaceae	Hordeum vulgare L.	7	4480	chromosome	81.39%	36151	Epsilon+Tau+Sigma+Rho	Zeng et al., 2020	https://doi.org/10.1038/s41597-020-0480-0	4
-Poales	Poaceae	Lolium perenne L.	7	2467	chromosome	81.60%	38868		Frei et al., 2021	https://doi.org/10.1093/gbe/evab159	
+Poales	Poaceae	Lolium perenne L.	7	2467	chromosome	81.60%	38868	NA	Frei et al., 2021	https://doi.org/10.1093/gbe/evab159	NA
 Poales	Poaceae	Microstegium vimineum	20	1300	chromosome	66.48%	39604	Epsilon+Tau+Sigma+Rho+WGD	Ramachandran et al., 2021	https://doi.org/10.1093/gbe/evab238	5
 Poales	Poaceae	Miscanthus floridulus	19	2462	chromosome	63.60%	76913	Epsilon+Tau+Sigma+Rho+WGD	Zhang et al., 2021	https://doi.org/10.1038/s41477-021-00908-y	5
 Poales	Poaceae	Miscanthus lutarioriparius	19	2150	chromosome	64.39%	68328	Epsilon+Tau+Sigma+Rho+WGD	Miao et  al 2021	https://doi.org/10.1038/s41467-021-22738-4	5
@@ -505,19 +506,19 @@ Poales	Poaceae	Oryza meridionalis	12	388	scaffold	29.77%	39106	Epsilon+Tau+Sigma
 Poales	Poaceae	Oryza nivara	12	395	scaffold	27.65%	41490	Epsilon+Tau+Sigma+Rho	Zhang et al., 2014	https://doi.org/10.1073/pnas.1418307111	4
 Poales	Poaceae	Oryza rufipogon	12	393	chromosome	49.37%	36520	Epsilon+Tau+Sigma+Rho	Xie et al., 2020	https://doi.org/10.1007/s11427-020-1738-x	4
 Poales	Poaceae	Oryza sativa	12	400	chromosome	44.00%	41270	Epsilon+Tau+Sigma+Rho	Choi et al., 2020	https://doi.org/10.1186/s13059-020-1938-2	4
-Poales	Poaceae	Panicum hallii	9	484.6	chromosome			Epsilon+Tau+Sigma+Rho	Lovell et al., 2018	https://doi.org/10.1038/s41467-018-07669-x	4
+Poales	Poaceae	Panicum hallii	9	484.6	chromosome	NA	NA	Epsilon+Tau+Sigma+Rho	Lovell et al., 2018	https://doi.org/10.1038/s41467-018-07669-x	4
 Poales	Poaceae	Panicum miliaceum L.	18	887.8	chromosome	54.10%	63671	Epsilon+Tau+Sigma+Rho+WGD	Shi et al., 2019	https://doi.org/10.1038/s41467-018-07876-6	5
 Poales	Poaceae	Panicum miliaceum L.	18	840.3	chromosome	57.59%	61782	Epsilon+Tau+Sigma+Rho+WGD	Sun et al., 2022	https://doi.org/10.1111/tpj.16085	5
 Poales	Poaceae	Paspalum notatum	10	549	chromosome	60.64%	36511	Epsilon+Tau+Sigma+Rho	Yan et al., 2022	https://doi.org/10.1186/s12864-022-08489-6	4
-Poales	Poaceae	Paspalum vaginatum	10	590	chromosome		45843	Epsilon+Tau+Sigma+Rho	Sun et al., 2022	https://doi.org/10.1038/s41467-022-35507-8	4
+Poales	Poaceae	Paspalum vaginatum	10	590	chromosome	NA	45843	Epsilon+Tau+Sigma+Rho	Sun et al., 2022	https://doi.org/10.1038/s41467-022-35507-8	4
 Poales	Poaceae	Pharus latifolius	12	1034	chromosome	78.90%	32007	Epsilon+Tau+Sigma+Rho	Ma et al., 2021	https://doi.org/10.1093/plcell/koab015	4
 Poales	Poaceae	Phragmites australis	24	1140	scaffold	56.19%	64857	Epsilon+Tau+Sigma+Rho+WGD	Oh et al., 2021	https://doi.org/10.1111/mec.16293	5
 Poales	Poaceae	Phyllostachys edulis	24	1907	chromosome	51.62%	51074	Epsilon+Tau+Sigma+Rho+WGD	Zhao et al., 2018	https://doi.org/10.1093/gigascience/giy115	5
 Poales	Poaceae	Phyllostachys heterocycla	24	2050	chromosome	59.00%	31987	Epsilon+Tau+Sigma+Rho+WGD	Peng et al., 2013	https://doi.org/10.1038/ng.2569	5
-Poales	Poaceae	Poa annua L.	14	1850	chromosome	70.40%	76420		Robbins et al., 2023	https://doi.org/10.1093/gbe/evac180	
-Poales	Poaceae	Puccinellia tenuiflora	7	1303	scaffold	62.44%	39725		Guo et al., 2020	https://doi.org/10.1186/s12864-020-6727-5	
-Poales	Poaceae	Saccharum hybrid	97	9300	chromosome		348860	Epsilon+Tau+Sigma+Rho+WGD+WGD+WGD	Zhang et al 2025	https://doi.org/10.1038/s41588-024-02033-w	7
-Poales	Poaceae	Saccharum officinarum	40					Epsilon+Tau+Sigma+Rho+WGD+WGD			6
+Poales	Poaceae	Poa annua L.	14	1850	chromosome	70.40%	76420	NA	Robbins et al., 2023	https://doi.org/10.1093/gbe/evac180	NA
+Poales	Poaceae	Puccinellia tenuiflora	7	1303	scaffold	62.44%	39725	NA	Guo et al., 2020	https://doi.org/10.1186/s12864-020-6727-5	NA
+Poales	Poaceae	Saccharum hybrid XTT22	97	9300	chromosome	NA	348860	Epsilon+Tau+Sigma+Rho+WGD+WGD+WGD	Zhang et al 2025	https://doi.org/10.1038/s41588-024-02033-w	7
+Poales	Poaceae	Epsilon+Tau+Sigma+Rho+WGD+WGD+WGD	114	10400	chromosome	66.54%	68509	Epsilon+Tau+Sigma+Rho+WGD+WGD+WGD	Bao et al., 2024	https://doi.org/10.1038/s41467-024-47390-6	7
 Poales	Poaceae	Saccharum spontaneum	20	2830	chromosome	57.52%	122441	Epsilon+Tau+Sigma+Rho+WGD	Zhang et al., 2022	https://doi.org/10.1038/s41588-022-01084-1	5
 Poales	Poaceae	Secale cereale	7	7860	chromosome	90.31%	86991	Epsilon+Tau+Sigma+Rho	Guangwei Li et al., 2021	https://doi.org/10.1038/s41588-021-00808-z	4
 Poales	Poaceae	Setaria italica	9	510	chromosome	40.00%	35472	Epsilon+Tau+Sigma+Rho	Bennetzen et al., 2012; Zhang et al., 2012	https://doi.org/10.1038/nbt.2196	4
@@ -529,9 +530,9 @@ Poales	Poaceae	Triticum urartu	7	4940	chromosome	81.42%	41507	Epsilon+Tau+Sigma+
 Poales	Poaceae	Zea mays	10	2106	chromosome	60.20%	39324	Epsilon+Tau+Sigma+Rho+WGD	Jiao et al., 2017	https://doi.org/10.1038/nature22971	5
 Poales	Poaceae	Zizania latifolia	17	606.13	chromosome	52.89%	38852	Epsilon+Tau+Sigma+Rho	Yan et al., 2022	https://doi.org/10.1038/s42003-021-02993-3	4
 Poales	Poaceae	Zoysia japonica	20	340	chromosome	35.60%	59271	Epsilon+Tau+Sigma+Rho+WGD	Tanaka et al., 2016	https://doi.org/10.1093/dnares/dsw006	5
-Poales	Typhaceae	Typha latifolia	15	287	scaffold	43.84%	27432		Widanagama et al., 2022	https://doi.org/10.1093/g3journal/jkab401	
+Poales	Typhaceae	Typha latifolia	15	287	scaffold	43.84%	27432	NA	Widanagama et al., 2022	https://doi.org/10.1093/g3journal/jkab401	NA
 Ranunculales	Lardizabalaceae	Akebia trifoliata	16	652.73	chromosome	70.10%	24138	Epsilon+WGD+WGD	Zhong et al., 2022	https://doi.org/10.1111/tpj.16011	3
-Ranunculales	Menispermaceae	Tinospora sagittata	26	1299.6	chromosome	51.72%	52953		Murtaza Alami et al., 2024	https://doi.org/10.1038/s41597-024-03315-y	
+Ranunculales	Menispermaceae	Tinospora sagittata	26	1299.6	chromosome	51.72%	52953	NA	Murtaza Alami et al., 2024	https://doi.org/10.1038/s41597-024-03315-y	NA
 Rosales	Moraceae	Morus alba	14	346	chromosome	52.85%	22767	Epsilon+Gamma	Jiao et al., 2020	10.1016/j.molp.2020.05.005	2
 Rosales	Moraceae	Morus notabilis (female)	6	301	chromosome	49%	25391	Epsilon+Gamma	Xia et al., 2022	https://doi.org/10.1016/j.gpb.2022.08.005	2
 Rosales	Moraceae	Morus notabilis (male)	6	329	chromosome	54%	25333	Epsilon+Gamma	Xia et al., 2022	https://doi.org/10.1016/j.gpb.2022.08.005	2
@@ -574,7 +575,7 @@ Rosales	Rosaceae	Rosa sterilis	7	981.2	chromosome	49.90%	79545	Epsilon+Gamma	Zon
 Rosales	Rosaceae	Rubus argutus, cv. 'Hillquist'	7	298	chromosome	52.80%	38503	Epsilon+Gamma	Brůna et al., 2023	https://doi.org/10.1093/g3journal/jkac289	2
 Rosales	Rosaceae	Rubus chingii Hu	7	231.21	chromosome	36.50%	33130	Epsilon+Gamma	Wang et al., 2021	https://doi.org/10.1111/tpj.15394	2
 Rosales	Rosaceae	Rubus corchorifolius	7	215.69	chromosome	35.85%	26696	Epsilon+Gamma	Yang et al., 2022	https://doi.org/10.1016/j.gpb.2022.05.003	2
-Rosales	Rosaceae	Rubus idaeus L.	7	291.7	chromosome		39448	Epsilon+Gamma	Davik et al., 2022	https://doi.org/10.1371/journal.pone.0265096	2
+Rosales	Rosaceae	Rubus idaeus L.	7	291.7	chromosome	NA	39448	Epsilon+Gamma	Davik et al., 2022	https://doi.org/10.1371/journal.pone.0265096	2
 Rosales	Rosaceae	Rubus L. subgenus Rubus Watson	14	919	chromosome	57%	87968	Epsilon+Gamma	Paudel et al., 2023	https://doi.org/10.1101/2023.04.24.538158 	2
 Rosales	Rosaceae	Rubus occidentalis	7	290	chromosome	32.60%	34545	Epsilon+Gamma	VanBuren et al., 2018	https://doi.org/10.1093/gigascience/giy094	2
 Rosales	Rosaceae	Rubus occidentalis	7	243	chromosome	56%	28005	Epsilon+Gamma	VanBuren et al., 2016	https://doi.org/10.1111/tpj.13215	2
@@ -582,33 +583,34 @@ Sapindales	Sapindaceae	Acer palmatum	13	745.78	chromosome	66.15%	28559	Epsilon+G
 Sapindales	Sapindaceae	Acer pseudosieboldianum	13	690.24	chromosome	76.84%	29679	Epsilon+Gamma	Li et al., 2022	https://doi.org/10.3389/fpls.2022.850054 	2
 Sapindales	Sapindaceae	Acer truncatum	13	633.28	chromosome	59.95%	28438	Epsilon+Gamma	Ma et al., 2020	https://doi.org/10.1111/tpj.14954	2
 Sapindales	Sapindaceae	Acer yangbiense	13	665	chromosome	68.00%	28320	Epsilon+Gamma	Yang et al., 2019	https://doi.org/10.1093/gigascience/giz085	2
-Saxifragales	Cercidiphyllaceae	Cercidiphyllum japonicum	19	719	chromosome		27393	Epsilon+Gamma	Zhu et al., 2020	https://doi.org/10.1111/nph.16798	2
-Solanales	Convolvulaceae	Ipomoea batatas	15	832	chromosome	45.62%	49063	Epsilon+Gamma+WGT	Yang et al., 2017	https://doi.org/10.1038/s41477-017-0002-z	4
-Solanales	Convolvulaceae	Ipomoea nil	15	750	chromosome	63.29%	42783	Epsilon+Gamma+WGT			
-Solanales	Solanaceae	Anisodus tanguticus	24	1260	chromosome	66.70%	44252	Epsilon+Gamma+WGT+WGD	Song et al., 2024	https://doi.org/10.1038/s41597-024-03007-7	
+Saxifragales	Cercidiphyllaceae	Cercidiphyllum japonicum	19	719	chromosome	NA	27393	Epsilon+Gamma	Zhu et al., 2020	https://doi.org/10.1111/nph.16798	2
+Solanales	Convolvulaceae	Ipomoea batatas	15	832	chromosome	45.62%	49063	Epsilon+Gamma+WGT	Yang et al., 2017	https://doi.org/10.1038/s41477-017-0002-z	3
+Solanales	Convolvulaceae	Ipomoea nil	15	750	chromosome	63.29%	42783	Epsilon+Gamma+WGT	Hoshino et al., 2016	https://doi.org/10.1038/ncomms13295	3
+Solanales	Solanaceae	Anisodus acutangulus	24	1204.94	chromosome	71.54%	38388	Epsilon+Gamma+WGT+WGD	Zhou et al., 2024	https://doi.org/10.1016/j.xplc.2023.100680	4
+Solanales	Solanaceae	Anisodus tanguticus	24	1260	chromosome	66.70%	44252	Epsilon+Gamma+WGT+WGD	Song et al., 2024	https://doi.org/10.1038/s41597-024-03007-7	4
 Solanales	Solanaceae	Capsicum annuum	12	3480	chromosome	79.60%	34903	Epsilon+Gamma+WGT	Kim et al., 2014	https://doi.org/10.1038/ng.2877	3
 Solanales	Solanaceae	Capsicum annuum L. Zunla-1	12	3260	chromosome	81%	35336	Epsilon+Gamma+WGT	Qin et al., 2014	https://doi.org/10.1073/pnas.1400975111	3
 Solanales	Solanaceae	Capsicum annuum var. annuum Zhangshugang	12	3024	chromosome	78.14%	33688	Epsilon+Gamma+WGT	Liu et al., 2023	https://doi.org/10.1038/s41467-023-41251-4	3
 Solanales	Solanaceae	Capsicum baccatum var. pendulum PI 632928	12	3309	chromosome	87.21%	32830	Epsilon+Gamma+WGT	Liu et al., 2023	https://doi.org/10.1038/s41467-023-41251-4	3
 Solanales	Solanaceae	Capsicum pubescens Grif 1614	12	3927	chromosome	89.25%	33398	Epsilon+Gamma+WGT	Liu et al., 2023	https://doi.org/10.1038/s41467-023-41251-4	3
 Solanales	Solanaceae	Datura stramonium	12	1590	chromosome	78.65%	40229	Epsilon+Gamma+WGT	De-la-Cruz et al., 2024	https://doi.org/10.1093/g3journal/jkad288	3
-Solanales	Solanaceae	Lycium barbarum	12	1670	chromosome		33581	Epsilon+Gamma+WGT	Cao et al., 2021	https://doi.org/10.1038/s42003-021-02152-8 	3
+Solanales	Solanaceae	Lycium barbarum	12	1670	chromosome	NA	33581	Epsilon+Gamma+WGT	Cao et al., 2021	https://doi.org/10.1038/s42003-021-02152-8 	3
 Solanales	Solanaceae	Nicotiana attenuata	12	2500	scaffold	81.00%	33449	Epsilon+Gamma+WGT	Xu et al., 2017	https://doi.org/10.1073/pnas.1700073114	3
 Solanales	Solanaceae	Nicotiana benthamiana	19	2762	chromosome	49.99%	46215	Epsilon+Gamma+WGT+WGD	Ko et al., 2024	https://doi.org/10.1038/s41597-024-03232-0	4
-Solanales	Solanaceae	Nicotiana knightiana	12	3090	scaffold	75%		Epsilon+Gamma+WGT	Sierro et al., 2018	https://doi.org/10.1186/s12864-018-5241-5	3
-Solanales	Solanaceae	Nicotiana obtusifolia	12	1500	scaffold	64.80%		Epsilon+Gamma+WGT	Xu et al., 2017	https://doi.org/10.1073/pnas.1700073114	3
-Solanales	Solanaceae	Nicotiana paniculata	12	2880	scaffold	76%		Epsilon+Gamma+WGT	Sierro et al., 2018	https://doi.org/10.1186/s12864-018-5241-5	3
-Solanales	Solanaceae	Nicotiana rustica	24	5181	scaffold	75%		Epsilon+Gamma+WGT+WGD	Sierro et al., 2018	https://doi.org/10.1186/s12864-018-5241-5	4
-Solanales	Solanaceae	Nicotiana sylvestris	12	2680	scaffold	71.95%		Epsilon+Gamma+WGT	Sierro et al., 2013	https://doi.org/10.1186/gb-2013-14-6-r60	
-Solanales	Solanaceae	Nicotiana sylvestris	12	2320	chromosome			Epsilon+Gamma+WGT	Sierro et al., 2024	https://doi.org/10.1038/s41597-024-02965-2	3
+Solanales	Solanaceae	Nicotiana knightiana	12	3090	scaffold	75%	NA	Epsilon+Gamma+WGT	Sierro et al., 2018	https://doi.org/10.1186/s12864-018-5241-5	3
+Solanales	Solanaceae	Nicotiana obtusifolia	12	1500	scaffold	64.80%	NA	Epsilon+Gamma+WGT	Xu et al., 2017	https://doi.org/10.1073/pnas.1700073114	3
+Solanales	Solanaceae	Nicotiana paniculata	12	2880	scaffold	76%	NA	Epsilon+Gamma+WGT	Sierro et al., 2018	https://doi.org/10.1186/s12864-018-5241-5	3
+Solanales	Solanaceae	Nicotiana rustica	24	5181	scaffold	75%	NA	Epsilon+Gamma+WGT+WGD	Sierro et al., 2018	https://doi.org/10.1186/s12864-018-5241-5	4
+Solanales	Solanaceae	Nicotiana sylvestris	12	2680	scaffold	71.95%	NA	Epsilon+Gamma+WGT	Sierro et al., 2013	https://doi.org/10.1186/gb-2013-14-6-r60	3
+Solanales	Solanaceae	Nicotiana sylvestris	12	2320	chromosome	NA	NA	Epsilon+Gamma+WGT	Sierro et al., 2024	https://doi.org/10.1038/s41597-024-02965-2	3
 Solanales	Solanaceae	Nicotiana tabacum	24	4500	chromosome	67%	69500	Epsilon+Gamma+WGT+WGD	Edwards et al., 2017	https://doi.org/10.1186/s12864-017-3791-6	4
-Solanales	Solanaceae	Nicotiana tabacum	24	3990	chromosome			Epsilon+Gamma+WGT+WGD	Sierro et al., 2024	https://doi.org/10.1038/s41597-024-02965-2	4
-Solanales	Solanaceae	Nicotiana tabacum BX	24	4570	chromosome	72.70%		Epsilon+Gamma+WGT+WGD	Sierro et al., 2014	https://doi.org/10.1038/ncomms4833	3
-Solanales	Solanaceae	Nicotiana tabacum K326	24	4600	chromosome	73.10%		Epsilon+Gamma+WGT+WGD	Sierro et al., 2014	https://doi.org/10.1038/ncomms4833	3
+Solanales	Solanaceae	Nicotiana tabacum	24	3990	chromosome	NA	NA	Epsilon+Gamma+WGT+WGD	Sierro et al., 2024	https://doi.org/10.1038/s41597-024-02965-2	4
+Solanales	Solanaceae	Nicotiana tabacum BX	24	4570	chromosome	72.70%	NA	Epsilon+Gamma+WGT+WGD	Sierro et al., 2014	https://doi.org/10.1038/ncomms4833	3
+Solanales	Solanaceae	Nicotiana tabacum K326	24	4600	chromosome	73.10%	NA	Epsilon+Gamma+WGT+WGD	Sierro et al., 2014	https://doi.org/10.1038/ncomms4833	3
 Solanales	Solanaceae	Nicotiana tabacum TN90	24	4410	chromosome	78.90%	81000	Epsilon+Gamma+WGT+WGD	Sierro et al., 2014	https://doi.org/10.1038/ncomms4833	3
-Solanales	Solanaceae	Nicotiana tomentosiformis	12	2360	scaffold	74.84%			Sierro et al., 2013	https://doi.org/10.1186/gb-2013-14-6-r60	
-Solanales	Solanaceae	Nicotiana tomentosiformis	12	1740	chromosome			Epsilon+Gamma+WGT	Sierro et al., 2024	https://doi.org/10.1038/s41597-024-02965-2	3
-Solanales	Solanaceae	Nicotiana undulata	12	2362	scaffold	72%		Epsilon+Gamma+WGT	Sierro et al., 2018	https://doi.org/10.1186/s12864-018-5241-5	3
+Solanales	Solanaceae	Nicotiana tomentosiformis	12	2360	scaffold	74.84%	NA	Epsilon+Gamma+WGT	Sierro et al., 2013	https://doi.org/10.1186/gb-2013-14-6-r60	3
+Solanales	Solanaceae	Nicotiana tomentosiformis	12	1740	chromosome	NA	NA	Epsilon+Gamma+WGT	Sierro et al., 2024	https://doi.org/10.1038/s41597-024-02965-2	3
+Solanales	Solanaceae	Nicotiana undulata	12	2362	scaffold	72%	NA	Epsilon+Gamma+WGT	Sierro et al., 2018	https://doi.org/10.1186/s12864-018-5241-5	3
 Solanales	Solanaceae	Petunia axillaris	7	1400	scaffold	63%	32928	Epsilon+Gamma+WGT	Bombarely et al., 2016	https://doi.org/10.1038/nplants.2016.74	3
 Solanales	Solanaceae	Petunia inflata	7	1400	scaffold	63%	36697	Epsilon+Gamma+WGT	Bombarely et al., 2016	https://doi.org/10.1038/nplants.2016.74	3
 Solanales	Solanaceae	Physalis floridana	12	1389.2	chromosome	82%	32075	Epsilon+Gamma+WGT	Liu et al., 2021	https://doi.org/10.1038/s41438-021-00705-w	3
@@ -617,7 +619,7 @@ Solanales	Solanaceae	Solanum arcanum LA2157	12	862.4	chromosome	48.73%	33489	Eps
 Solanales	Solanaceae	Solanum bulbocastanum Dun.	12	737.9	chromosome	56.20%	35523	Epsilon+Gamma+WGT	Hosaka et al., 2024	https://doi.org/10.1093/g3journal/jkae080	3
 Solanales	Solanaceae	Solanum chilense	12	914	chromosome	62.63%	30994	Epsilon+Gamma+WGT	Molitor et al., 2024	https://doi.org/10.3389/fpls.2024.1342739	3
 Solanales	Solanaceae	Solanum chilense LA1969	12	917	chromosome	73.70%	34375	Epsilon+Gamma+WGT	Li et al., 2023	https://doi.org/10.1038/s41588-023-01340-y	3
-Solanales	Solanaceae	Solanum chilense LA3111	12	914	scaffold		25885	Epsilon+Gamma+WGT	Stam et al., 2019	https://doi.org/10.1534/g3.119.400529	3
+Solanales	Solanaceae	Solanum chilense LA3111	12	914	scaffold	NA	25885	Epsilon+Gamma+WGT	Stam et al., 2019	https://doi.org/10.1534/g3.119.400529	3
 Solanales	Solanaceae	Solanum chmielewskii LA1028	12	770	chromosome	72.26%	31613	Epsilon+Gamma+WGT	Li et al., 2023	https://doi.org/10.1038/s41588-023-01340-y	3
 Solanales	Solanaceae	Solanum commersonii	12	830	scaffold	44.50%	37662	Epsilon+Gamma+WGT	Aversano et al., 2015	https://doi.org/10.1105/tpc.114.135954	3
 Solanales	Solanaceae	Solanum corneliomulleri LA1331	12	877	chromosome	74.49%	31692	Epsilon+Gamma+WGT	Li et al., 2023	https://doi.org/10.1038/s41588-023-01340-y	3
@@ -632,7 +634,7 @@ Solanales	Solanaceae	Solanum lycopersicum var. cerasiforme LA1464	12	778	chromos
 Solanales	Solanaceae	Solanum lycopersicum var. lycopersicum Heinz 1706	12	828	chromosome	63.46%	35768	Epsilon+Gamma+WGT	Li et al., 2023	https://doi.org/10.1038/s41588-023-01340-y	3
 Solanales	Solanaceae	Solanum lycopersicum var. lycopersicum M82	12	881	chromosome	64.31%	31773	Epsilon+Gamma+WGT	Li et al., 2023	https://doi.org/10.1038/s41588-023-01340-y	3
 Solanales	Solanaceae	Solanum melongena L.	12	1170	chromosome	70.09%	36582	Epsilon+Gamma+WGT	Wei et al., 2020	https://doi.org/10.1038/s41438-020-00391-0	3
-Solanales	Solanaceae	Solanum melongena L.	12	1160	chromosome		34916	Epsilon+Gamma+WGT	Barchi et al., 2021	https://doi.org/10.1111/tpj.15313	3
+Solanales	Solanaceae	Solanum melongena L.	12	1160	chromosome	NA	34916	Epsilon+Gamma+WGT	Barchi et al., 2021	https://doi.org/10.1111/tpj.15313	3
 Solanales	Solanaceae	Solanum melongena L.	12	1155.8	chromosome	70.10%	35018	Epsilon+Gamma+WGT	Li et al., 2021	https://doi.org/10.1111/1755-0998.13321	3
 Solanales	Solanaceae	Solanum neorickii LA0247	12	778	chromosome	72.74%	32831	Epsilon+Gamma+WGT	Li et al., 2023	https://doi.org/10.1038/s41588-023-01340-y	3
 Solanales	Solanaceae	Solanum pennellii	12	1200	chromosome	82%	32273	Epsilon+Gamma+WGT	Bolger et al., 2014	https://doi.org/10.1038/ng.3046	3
@@ -660,15 +662,14 @@ Vitales	Vitaceae	Vitis vinifera PN40024	19	487	chromosome	41.40%	30434	Epsilon+G
 Vitales	Vitaceae	Vitis vinifera ssp. Vinifera	19	494.87	chromosome	67%	37534	Epsilon+Gamma	Shi et al., 2023	https://doi.org/10.1093/hr/uhad061	2
 Vitales	Vitaceae	Vitis zhejiang-adstricta	19	521.76	chromosome	47.49%	31196	Epsilon+Gamma	Li et al., 2024	https://doi.org/10.1093/pcp/pcad140	2
 Zingiberales	Musaceae	Ensete glaucum	9	481.5	chromosome	55%	36836	Epsilon+Gamma	Wang et al., 2022	https://doi.org/10.1093/gigascience/giac027	2
-Zingiberales	Musaceae	Musa acuminata Cavendish	33	1480	chromosome		106540	Epsilon+Gamma+WGT	Li et al., 2024	https://doi.org/10.1038/s41588-023-01589-3	3
+Zingiberales	Musaceae	Musa acuminata Cavendish	33	1480	chromosome	NA	106540	Epsilon+Gamma+WGT	Li et al., 2024	https://doi.org/10.1038/s41588-023-01589-3	3
 Zingiberales	Musaceae	Musa acuminata DH-Pahang	11	472.2	chromosome	50.00%	36542	Epsilon+Gamma	D'Hont et al., 2012	https://doi.org/10.1038/nature11241	2
-Zingiberales	Musaceae	Musa acuminata DH-Pahang	11	450.7	chromosome		36550	Epsilon+Gamma	Martin et al., 2016	https://doi.org/10.1186/s12864-016-2579-4	2
-Zingiberales	Musaceae	Musa acuminata Gros Michel	33	1330	chromosome		120653	Epsilon+Gamma+WGT	Li et al., 2024	https://doi.org/10.1038/s41588-023-01589-3	3
+Zingiberales	Musaceae	Musa acuminata DH-Pahang	11	450.7	chromosome	NA	36550	Epsilon+Gamma	Martin et al., 2016	https://doi.org/10.1186/s12864-016-2579-4	2
+Zingiberales	Musaceae	Musa acuminata Gros Michel	33	1330	chromosome	NA	120653	Epsilon+Gamma+WGT	Li et al., 2024	https://doi.org/10.1038/s41588-023-01589-3	3
 Zingiberales	Musaceae	Musa balbisiana	9	636	chromosome	51.79%	39112	Epsilon+Gamma	Wang et al., 2023	https://doi.org/10.1093/gigascience/giad005	2
 Zingiberales	Musaceae	Musa itenerans	11	462.1	chromosome	38.95%	32456	Epsilon+Gamma	Wu et al., 2016	https://doi.org/10.1038/srep31586	2
 Zingiberales	Musaceae	Musa ornata	11	427.85	chromosome	46.70%	39177	Epsilon+Gamma	Xiao et al., 2024	https://doi.org/10.1093/hr/uhae079	2
 Zingiberales	Musaceae	Musa textilis	10	606	chromosome	58.41%	35077	Epsilon+Gamma	Zhou et al., 2023	https://doi.org/10.1016/j.xplc.2023.100681	2
-Zingiberales	Musaceae	Musa textilis Née	10	587	scaffold	53.60%	33277	Epsilon+Gamma	Galvez et al., 2021	https://doi.org/10.3390/genes12081202	
+Zingiberales	Musaceae	Musa textilis Née	10	587	scaffold	53.60%	33277	Epsilon+Gamma	Galvez et al., 2021	https://doi.org/10.3390/genes12081202	2
 Zingiberales	Musaceae	Musa troglodytarum	10	610	chromosome	60.34%	36080	Epsilon+Gamma	Zhou et al., 2023	https://doi.org/10.1016/j.xplc.2023.100681	2
 Zingiberales	Musaceae	Musa velutina	11	478.1	chromosome	50.91%	31256	Epsilon+Gamma	Xiao et al., 2024	https://doi.org/10.1093/hr/uhae079	2
-Solanales	Solanaceae	Anisodus acutangulus	24	1204.94	chromosome	71.54%	38388	Epsilon+Gamma+WGT+WGD	Zhou et al., 2024	https://doi.org/10.1016/j.xplc.2023.100680	4
