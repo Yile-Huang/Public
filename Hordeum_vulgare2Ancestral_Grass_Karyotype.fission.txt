@@ -1,0 +1,3 @@
+Ancestral_genes	Ancestral_position	CR_type
+Sb05g002730.1-Sb05g003680.1	11:370777-432160	AK-chr fission
+Sb01g034950.1-Sb01g015410.1	3:4180931-5020318	AK-chr fission
